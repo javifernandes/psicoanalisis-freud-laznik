@@ -54,30 +54,16 @@ Representacion inconciliable -> conflicto -> defensa -> separacion representacio
 
 Diagrama:
 
-```text
-representacion inconciliable
-          |
-          v
-   conflicto psiquico
-          |
-          v
-       defensa
-          |
-          v
-separacion representacion / monto de afecto
-          |
-          |-----------------------------|
-          |                             |
-          v                             v
-representacion segregada          monto de afecto
-grupo psiquico segundo                 |
-                                       |
-             ---------------------------------------------
-             |                     |                     |
-             v                     v                     v
-          cuerpo             otra representacion     rechazo conjunto
-        conversion             falso enlace           psicosis
-         histeria              obsesion
+```mermaid
+flowchart TD
+  A["Representacion inconciliable"] --> B["Conflicto psiquico"]
+  B --> C["Defensa"]
+  C --> D["Separacion entre representacion y monto de afecto"]
+  D --> E["Representacion segregada<br/>grupo psiquico segundo"]
+  D --> F["Monto de afecto"]
+  F --> G["Cuerpo<br/>conversion<br/>histeria"]
+  F --> H["Otra representacion<br/>falso enlace<br/>neurosis obsesiva"]
+  F --> I["Expulsion conjunta<br/>desestimacion<br/>psicosis"]
 ```
 
 ## Cuadro de parcial

@@ -25,26 +25,15 @@ La primera satisfaccion deja una marca. Cuando vuelve la tension, el aparato int
 
 Diagrama:
 
-```text
-primera tension interna  +  objeto que calma
-              |                  |
-              v                  v
-            vivencia de satisfaccion
-                      |
-                      v
-         huella de tension + huella de objeto
-                      |
-                      v
-              nueva tension interna
-                      |
-                      v
-        busqueda de la huella del objeto
-                      |
-                      v
-          encuentra huella, no objeto pleno
-                      |
-                      v
-                    deseo
+```mermaid
+flowchart TD
+  A["Primera tension interna"] --> C["Vivencia de satisfaccion"]
+  B["Objeto que calma"] --> C
+  C --> D["Huella de tension + huella de objeto"]
+  D --> E["Nueva tension interna"]
+  E --> F["Busqueda de la huella del objeto"]
+  F --> G["Encuentra huella, no objeto pleno"]
+  G --> H["Deseo"]
 ```
 
 ## Deseo
@@ -74,16 +63,20 @@ El proceso primario busca repetir la satisfaccion por la via mas corta: reinvest
 
 Diagrama:
 
-```text
-proceso primario
+```mermaid
+flowchart TD
+  subgraph P["Proceso primario"]
+    P1["Tension"] --> P2["Deseo"]
+    P2 -->|via regrediente| P3["Retorno a huella perceptiva"]
+    P3 --> P4["Alucinacion"]
+  end
 
-tension -> deseo -> retorno a huella perceptiva -> alucinacion
-                 via regrediente
-
-proceso secundario
-
-tension -> pensamiento -> rodeo -> accion -> objeto posible
-                 via progrediente
+  subgraph S["Proceso secundario"]
+    S1["Tension"] --> S2["Pensamiento"]
+    S2 -->|via progrediente| S3["Rodeo"]
+    S3 --> S4["Accion"]
+    S4 --> S5["Objeto posible"]
+  end
 ```
 
 ## Formula

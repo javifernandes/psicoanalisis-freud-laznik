@@ -39,8 +39,11 @@ El trauma psiquico no es simplemente un acontecimiento externo. Es una vivencia 
 
 Formula:
 
-```text
-vivencia con afecto -> no abreaccion -> recuerdo conserva intensidad -> sintoma
+```mermaid
+flowchart LR
+  A["Vivencia con afecto"] --> B["No abreaccion"]
+  B --> C["El recuerdo conserva intensidad"]
+  C --> D["Sintoma"]
 ```
 
 ## Giro freudiano

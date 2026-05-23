@@ -27,32 +27,28 @@ El punto decisivo es que el trauma no esta completo en el primer tiempo. La esce
 
 Formula:
 
-```text
-escena infantil -> queda como recuerdo inconciente
-escena posterior -> despierta el recuerdo
-recuerdo -> desprende displacer
-displacer -> defensa / sintoma
+```mermaid
+flowchart LR
+  A["Escena infantil"] --> B["Queda como recuerdo inconciente"]
+  C["Escena posterior"] --> D["Despierta el recuerdo"]
+  B --> D
+  D --> E["El recuerdo desprende displacer"]
+  E --> F["Defensa / sintoma"]
 ```
 
 Esto permite entender por que el sintoma de Emma no deriva de una escena sola. La eficacia esta en el encadenamiento.
 
 Diagrama de Emma:
 
-```text
-Tiempo cronologico
-
-8 anos                                  pubertad                    11/12 anos
-|------------------------------------------|-----------------------------|
-Escena II                                                             Escena I
-pastelero / risa / vestido                                            tienda / risa / vestido
-vivencia sexual prematura                                               escena posterior
-sin afecto traumatico pleno                                             despierta el recuerdo
-
-                         <----------- retroaccion -----------
-
-La escena posterior despierta el recuerdo infantil.
-El recuerdo infantil produce ahora displacer.
-El sintoma surge de la articulacion entre ambas escenas.
+```mermaid
+flowchart LR
+  A["Escena infantil<br/>8 anos<br/>pastelero / risa / vestido"] --> B["Queda inscripta<br/>sin afecto traumatico pleno"]
+  B --> C["Pubertad"]
+  D["Escena posterior<br/>11/12 anos<br/>tienda / risa / vestido"] --> E["Despierta el recuerdo infantil"]
+  C --> E
+  B -. "retroaccion" .-> E
+  E --> F["El recuerdo produce ahora displacer"]
+  F --> G["Defensa / sintoma"]
 ```
 
 ## Elisabeth von R.
@@ -70,18 +66,17 @@ El sintoma condensa varias cadenas. No es cuerpo extraño, esta infiltrado en la
 
 Diagrama de Elisabeth:
 
-```text
-                         dolor en las piernas
-                                  |
-        -------------------------------------------------------
-        |                  |                 |                 |
-   serie padre       serie hermana      estar de pie       estar sola
-   cuidado           muerte             velorio            independencia
-   pierna apoyada    cunado             terror             vida amorosa
-        |                  |                 |                 |
-        ------------------- punto nodal ------------------------
-                                  |
-                          conflicto psiquico
+```mermaid
+flowchart TD
+  A["Dolor en las piernas"] --> B["Serie padre<br/>cuidado / pierna apoyada"]
+  A --> C["Serie hermana<br/>muerte / cunado"]
+  A --> D["Estar de pie<br/>velorio / terror"]
+  A --> E["Estar sola<br/>independencia / vida amorosa"]
+  B --> F["Punto nodal"]
+  C --> F
+  D --> F
+  E --> F
+  F --> G["Conflicto psiquico"]
 ```
 
 En Elisabeth, el dolor de piernas no se explica por una unica escena. Freud va siguiendo series asociativas: el cuidado del padre, la muerte de la hermana, escenas de estar de pie, caminar, quedarse sola. Cada serie aporta un sentido parcial. El sintoma es un punto de convergencia.
