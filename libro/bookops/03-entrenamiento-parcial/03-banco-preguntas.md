@@ -2,7 +2,7 @@
 
 ## Como usar este banco
 
-Preguntas normalizadas a partir de examenes publicados, guias de lectura y notas de clase. No estan copiadas como respuestas: estan formuladas para practicar escritura de parcial.
+Preguntas normalizadas a partir de exámenes publicados, guías de lectura y notas de clase. No están copiadas como respuestas: están formuladas para practicar escritura de parcial.
 
 Cada pregunta deberia responderse con:
 
@@ -55,14 +55,14 @@ Cada pregunta deberia responderse con:
 4. Explique que es un recuerdo encubridor.
 5. Fundamente la afirmacion de que todo recuerdo de infancia es encubridor.
 6. Compare olvido de nombre propio y recuerdo encubridor.
-7. Compare recuerdo encubridor y restos diurnos del sueno.
+7. Compare recuerdo encubridor y restos diurnos del sueño.
 8. Explique el chiste famillionario como condensacion con formacion sustitutiva.
 9. Explique el chiste del baño del judio como desplazamiento y literalidad.
 10. Desarrolle por que el chiste evidencia mecanismos del proceso primario.
 
-## E. Primera teoria de la angustia
+## E. Primera teoría de la angustia
 
-1. Explique la genesis de la angustia en la primera version de la teoria freudiana.
+1. Explique la génesis de la angustia en la primera versión de la teoría freudiana.
 2. Diferencie neurosis de defensa y neurosis actuales.
 3. Explique por que la neurosis de angustia no se aborda con el mismo dispositivo que la histeria.
 4. Desarrolle la idea de angustia como afecto sin representacion.
@@ -82,21 +82,21 @@ Cada pregunta deberia responderse con:
 9. Compare sistema P, signos de percepcion, inconciente y preconciencia.
 10. Explique la diferencia entre direccion progrediente y regrediente.
 
-## G. Sueno, regresion y trabajo del sueno
+## G. Sueño, regresion y trabajo del sueño
 
-1. Explique el caracter alucinatorio del sueno a partir del aparato psiquico.
-2. Explique el caracter alucinatorio del sueno articulando con la regresion.
-3. Justifique que el sueno es una formacion del inconciente.
-4. Explique por que el sueno es un acto psiquico de pleno derecho.
-5. Desarrolle las operaciones del trabajo del sueno.
-6. Explique condensacion y desplazamiento en el trabajo del sueno.
+1. Explique el caracter alucinatorio del sueño a partir del aparato psiquico.
+2. Explique el caracter alucinatorio del sueño articulando con la regresion.
+3. Justifique que el sueño es una formacion del inconciente.
+4. Explique por que el sueño es un acto psiquico de pleno derecho.
+5. Desarrolle las operaciones del trabajo del sueño.
+6. Explique condensacion y desplazamiento en el trabajo del sueño.
 7. Explique el miramiento por la figurabilidad.
 8. Explique la elaboracion secundaria y su relacion con el contenido manifiesto.
-9. Desarrolle las operaciones del trabajo del sueno con el ejemplo de las tres entradas de teatro.
+9. Desarrolle las operaciones del trabajo del sueño con el ejemplo de las tres entradas de teatro.
 10. Explique la diferencia entre contenido manifiesto y pensamientos oniricos latentes.
 11. Explique el lugar de la censura onirica.
-12. Explique el ombligo del sueno como limite de interpretacion.
-13. Desarrolle por que interpretar es desandar el trabajo del sueno.
+12. Explique el ombligo del sueño como limite de interpretacion.
+13. Desarrolle por que interpretar es desandar el trabajo del sueño.
 
 ## H. Deseo, vivencia de satisfaccion y procesos
 
@@ -106,18 +106,18 @@ Cada pregunta deberia responderse con:
 4. Explique que significa identidad de percepcion.
 5. Explique como llega Freud a afirmar que el pensamiento sustituye al deseo alucinatorio.
 6. Diferencie proceso primario y proceso secundario.
-7. Explique por que el sueno testimonia el modo de trabajo primario del aparato psiquico.
-8. Explique la relacion entre deseo inconciente, restos diurnos y formacion del sueno.
+7. Explique por que el sueño testimonia el modo de trabajo primario del aparato psiquico.
+8. Explique la relacion entre deseo inconciente, restos diurnos y formacion del sueño.
 9. Diferencie deseo inconciente, anhelo y pensamiento latente.
 10. Explique el deseo como infantil, inmortal, inconciente y reprimido.
 
 ## I. Preguntas integradoras probables
 
-1. Compare trauma psiquico, trauma en dos tiempos y primera teoria de la angustia.
-2. Compare sintoma, sueno, chiste y olvido como formaciones sustitutivas.
-3. Explique como la defensa permite pasar del sintoma histerico a una teoria del inconciente.
-4. Explique como el estudio del sueno permite construir una teoria del aparato psiquico.
+1. Compare trauma psíquico, trauma en dos tiempos y primera teoría de la angustia.
+2. Compare sintoma, sueño, chiste y olvido como formaciones sustitutivas.
+3. Explique como la defensa permite pasar del síntoma histérico a una teoría del inconsciente.
+4. Explique como el estudio del sueño permite construir una teoría del aparato psíquico.
 5. Compare restos diurnos, recuerdos encubridores y nombres sustitutivos como elementos aparentemente nimios que adquieren valor por asociacion.
-6. Explique el lugar del lenguaje en sintoma, chiste, olvido y sueno.
+6. Explique el lugar del lenguaje en sintoma, chiste, olvido y sueño.
 7. Articule principio de constancia, abreaccion, defensa y sintoma.
 8. Articule principio de placer, vivencia de satisfaccion, deseo y proceso primario.

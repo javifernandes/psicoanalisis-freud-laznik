@@ -22,7 +22,7 @@ Responder cada pregunta en 12-20 lineas, con conceptos precisos y al menos un ej
 1. Practico: Explique el esquema del peine y diferencielo del arco reflejo.
 2. Practico: Explique el chiste famillionario como condensacion con formacion sustitutiva.
 3. Teorico: Desarrolle el ordenamiento multidimensional del material psiquico y articule con Elisabeth von R.
-4. Seminario: Explique la primera teoria de la angustia y diferencie neurosis actuales de neurosis de defensa.
+4. Seminario: Explique la primera teoría de la angustia y diferencie neurosis actuales de neurosis de defensa.
 
 ## Simulacro 3
 

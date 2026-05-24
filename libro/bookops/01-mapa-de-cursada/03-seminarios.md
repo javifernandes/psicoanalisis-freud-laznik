@@ -30,7 +30,7 @@ Ejes:
 - Asociaciones extrinsecas.
 - Fenomenos normales como vias al inconciente.
 
-## 3. Primera teoria de la angustia
+## 3. Primera teoría de la angustia
 
 Ejes:
 
@@ -40,7 +40,7 @@ Ejes:
 - Angustia como afecto sin representacion.
 - Cuerpo de la angustia vs cuerpo de la histeria.
 
-## 4. Sueno como formacion del inconciente
+## 4. Sueño como formacion del inconciente
 
 Ejes:
 
@@ -56,5 +56,5 @@ Ejes:
 
 1. Explique recuerdos encubridores.
 2. Explique Signorelli como formacion del inconciente.
-3. Explique la primera teoria de la angustia.
+3. Explique la primera teoría de la angustia.
 4. Explique el trabajo del sueño con las tres entradas de teatro.

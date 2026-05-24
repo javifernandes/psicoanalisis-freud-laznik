@@ -116,7 +116,7 @@ flowchart LR
 
 *El síntoma tiene determinación múltiple: varias cadenas asociativas convergen en puntos nodales.*
 
-## Diferencia util
+## Diferencia útil
 
 | Emma | Elisabeth |
 |---|---|

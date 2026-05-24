@@ -32,13 +32,14 @@ Material de estudio para Psicoanalisis 1 - Freud, catedra Laznik, Licenciatura e
 - `03-entrenamiento-parcial/03-banco-preguntas.md`
 - `03-entrenamiento-parcial/04-simulacros.md`
 
-### 04. Apendice de investigacion parcial
+### 04. Apéndice de investigación parcial
 
 - `04-apendice-investigacion-parcial/01-investigacion-web.md`
 - `04-apendice-investigacion-parcial/02-material-crudo-guias-y-notas.md`
 
 ### 05. Apendice de casos
 
+- `05-apendice-casos/00-caso-anna-o.md`
 - `05-apendice-casos/01-caso-emma.md`
 - `05-apendice-casos/02-caso-elisabeth-von-r.md`
 - `05-apendice-casos/03-caso-signorelli.md`

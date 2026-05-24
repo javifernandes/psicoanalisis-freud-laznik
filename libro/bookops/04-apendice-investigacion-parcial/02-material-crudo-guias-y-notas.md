@@ -6,8 +6,8 @@ Material de estudio para el primer parcial, organizado para responder preguntas 
 
 Alcance actual:
 
-- Guia 1: Defensa, histeria, formaciones del inconciente y primera teoria de la angustia.
-- Guia 2: Suenos y aparato psiquico.
+- Guía 1: Defensa, histeria, formaciones del inconsciente y primera teoría de la angustia.
+- Guia 2: Sueños y aparato psiquico.
 - Programa 2026: fuente para controlar textos y paginas indicadas.
 
 ## Forma esperada del parcial
@@ -21,13 +21,13 @@ Hipotesis de preparacion:
 
 - Teorico: tema visto solo en teorico.
 - Practico: alta probabilidad de aparato psiquico: Cc, Icc, Prcc.
-- Seminario/practico: formaciones del inconciente, sueno, chiste, trabajo del sueno.
+- Seminario/practico: formaciones del inconciente, sueño, chiste, trabajo del sueño.
 - Trauma: distinguir trauma histerico en mecanismos psiquicos y trauma en dos tiempos en Manuscrito K.
 - Articulacion con ejemplo clinico: estratificacion del material psiquico con Elisabeth von R.
 
 ## Enfasis de clase
 
-Esta seccion registra marcas de cursada: insistencias docentes, alertas de confusion y ejemplos trabajados. Debe funcionar como brujula para priorizar el desarrollo del libro.
+Esta sección registra marcas de cursada: insistencias docentes, alertas de confusión y ejemplos trabajados. Debe funcionar como brújula para priorizar el desarrollo del libro.
 
 ### Teoricos - Mecanismo psiquico de la histeria y Psicoterapia de la histeria
 
@@ -226,7 +226,7 @@ Sobredeterminacion:
 Funcion del caso:
 
 - Referente clinico para sintoma histerico, resistencia, simbolizacion, ordenamientos del material psiquico y sobredeterminacion.
-- No conviene leerlo como caso de vivencia sexual prematura traumatica: sirve para situar conflicto psiquico irreconciliable en un momento anterior de la teoria.
+- No conviene leerlo como caso de vivencia sexual prematura traumática: sirve para situar conflicto psíquico irreconciliable en un momento anterior de la teoría.
 
 Sintomas:
 
@@ -312,42 +312,42 @@ Formula breve:
 - La pierna duele como cuerpo simbolico: el lenguaje y la historia toman el cuerpo.
 - El caso permite mostrar que el sintoma esta sobredeterminado y que el material no se extirpa como un cuerpo extrano, sino que se recorre por cadenas.
 
-### Teoricos - 1900: sueno y primera teoria del psiquismo
+### Teóricos - 1900: sueño y primera teoría del psiquismo
 
 Texto central:
 
-- La interpretacion de los suenos.
+- La interpretacion de los sueños.
 
 Orientacion de la clase:
 
-- En teoricos no se trabaja el sueno solo como fenomeno clinico, sino como via para construir una primera teoria del psiquismo.
-- Con Psicopatologia de la vida cotidiana y La interpretacion de los suenos, Freud extiende la escision psiquica mas alla de la histeria y la neurosis.
-- Premisa: para todos existe una parte de la vida psiquica accesible solo por formaciones como suenos, chistes, lapsus, olvidos y errores.
+- En teóricos no se trabaja el sueño solo como fenómeno clínico, sino como vía para construir una primera teoría del psiquismo.
+- Con Psicopatologia de la vida cotidiana y La interpretacion de los sueños, Freud extiende la escision psiquica mas alla de la histeria y la neurosis.
+- Premisa: para todos existe una parte de la vida psiquica accesible solo por formaciones como sueños, chistes, lapsus, olvidos y errores.
 
 Cambio freudiano:
 
 | Antes | Desde las formaciones del inconciente |
 |---|---|
 | La escision de conciencia aparece ligada a histeria o neurosis | La division psiquica concierne a todos |
-| El sintoma es la via privilegiada | Suenos, chistes, lapsus y olvidos tambien tienen sentido |
+| El sintoma es la via privilegiada | Sueños, chistes, lapsus y olvidos tambien tienen sentido |
 | El inconciente aparece como grupo psiquico segundo | El inconciente se piensa como sistema con reglas propias |
 
 Hipotesis:
 
 - Los productos psiquicos aparentemente absurdos tienen sentido.
-- Los suenos son prueba de la existencia del inconciente.
+- Los sueños son prueba de la existencia del inconciente.
 - El inconciente es un sistema: tiene reglas, legalidad y funcionamiento propio.
 - El inconciente es constitutivo del psiquismo e irreductible: no se elimina.
-- Contra la equivalencia de epoca entre psiquismo y conciencia, Freud sostiene que el sueno es psiquico, no meramente fisiologico.
+- Contra la equivalencia de epoca entre psiquismo y conciencia, Freud sostiene que el sueño es psiquico, no meramente fisiologico.
 
-Sueno para el psicoanalisis:
+Sueño para el psicoanalisis:
 
-- El objeto de analisis es el relato del sueno.
-- El sueno es una formacion de texto: palabras, enlaces, asociaciones, sustituciones.
+- El objeto de analisis es el relato del sueño.
+- El sueño es una formacion de texto: palabras, enlaces, asociaciones, sustituciones.
 - Se diferencia del sintoma por su menor estabilidad temporal y porque no necesariamente trae padecimiento.
-- Formula clasica: el sueno es la via regia al inconciente.
+- Formula clasica: el sueño es la via regia al inconciente.
 
-Caracteristicas del sueno:
+Caracteristicas del sueño:
 
 1. Aparece en tiempo presente.
 2. Se vive como vivencia real.
@@ -359,7 +359,7 @@ Fechner y las localidades psiquicas:
 
 - Freud toma la idea de "localidades psiquicas".
 - No son lugares anatomicos, sino lugares virtuales del aparato.
-- El sueno ocurre en otro escenario.
+- El sueño ocurre en otro escenario.
 
 #### Modelo reflejo y aparato psiquico
 
@@ -434,24 +434,24 @@ Consecuencia:
 - Las asociaciones pueden aparecer como delirantes o absurdas para el yo porque no siguen necesariamente la logica conciente.
 - Tambien pueden ser dinamicas: dependen del contexto y de recorridos asociativos singulares.
 
-#### Instancias y formacion del sueno
+#### Instancias y formacion del sueño
 
 Esquema de instancias:
 
 - Instancia criticadora.
 - Instancia criticada.
-- De su relacion, alteracion y compromiso surge el sueno.
+- De su relacion, alteracion y compromiso surge el sueño.
 
 Nota de orientacion:
 
-- En tus notas aparece la duda de ubicacion exacta entre Icc/Prcc. Para no fijar mal el punto: conservar la idea central de que hay una instancia que censura y otra censurada, y que el sueno resulta de ese conflicto como formacion de compromiso.
+- En tus notas aparece la duda de ubicacion exacta entre Icc/Prcc. Para no fijar mal el punto: conservar la idea central de que hay una instancia que censura y otra censurada, y que el sueño resulta de ese conflicto como formacion de compromiso.
 
 ```mermaid
 flowchart LR
   A["Deseo inconciente"] --> B["Material psiquico"]
   B --> C["Censura / instancia criticadora"]
-  C --> D["Trabajo del sueno"]
-  D --> E["Sueno como compromiso"]
+  C --> D["Trabajo del sueño"]
+  D --> E["Sueño como compromiso"]
 ```
 
 Regla metapsicologica:
@@ -464,16 +464,16 @@ Regla metapsicologica:
 
 Problema:
 
-- Freud quiere explicar por que el sueno se vive como percepcion y por que tiene caracter alucinatorio.
+- Freud quiere explicar por que el sueño se vive como percepcion y por que tiene caracter alucinatorio.
 
 Hipotesis:
 
 - Durante el dormir, el polo motor esta cerrado o disminuido.
-- El deseo inconciente aporta fuerza al sueno.
+- El deseo inconciente aporta fuerza al sueño.
 - La excitacion no avanza hacia la descarga motriz; retorna en direccion regrediente.
 - Al regresar, alcanza huellas cercanas al polo perceptivo.
 - Esas huellas atraen la excitacion.
-- Esto produce el caracter alucinatorio del sueno.
+- Esto produce el caracter alucinatorio del sueño.
 
 Diagrama:
 
@@ -482,7 +482,7 @@ flowchart LR
   A["Deseo inconciente"] --> B["Excitacion"]
   B -->|"polo motor cerrado en el dormir"| C["No descarga motriz"]
   C -->|"regresion"| D["Huellas cercanas a percepcion"]
-  D --> E["Vivencia alucinatoria del sueno"]
+  D --> E["Vivencia alucinatoria del sueño"]
 ```
 
 Tipos de regresion:
@@ -495,7 +495,7 @@ Tipos de regresion:
 
 Formula importante:
 
-- El sueno sustituye una escena infantil o fundante, constituida por huellas, junto con una escena actual.
+- El sueño sustituye una escena infantil o fundante, constituida por huellas, junto con una escena actual.
 - Lo infantil atrae la excitacion.
 - "Infantil" no significa siempre recuerdo literal de infancia, sino lo fundante del aparato y del deseo.
 
@@ -535,7 +535,7 @@ Punto fino:
 
 Pregunta de Freud:
 
-- Si el sueno nace del deseo inconciente, por que el inconciente aporta la fuerza para el sueno.
+- Si el sueño nace del deseo inconciente, por que el inconciente aporta la fuerza para el sueño.
 - Que clase de deseo es ese.
 - De donde proviene.
 
@@ -553,7 +553,7 @@ Mocion de deseo:
 - Es movimiento, fuerza, empuje.
 - No se llena definitivamente.
 - No tiene representacion adecuada que lo agote.
-- Es el deseo como motor, el unico capaz de crear suenos.
+- Es el deseo como motor, el unico capaz de crear sueños.
 
 Apremio de la vida:
 
@@ -806,7 +806,7 @@ flowchart TD
 Punto general:
 
 - Condensacion y desplazamiento son mecanismos del inconciente.
-- Aparecen en formaciones como chistes, suenos, sintomas, actos fallidos y lapsus.
+- Aparecen en formaciones como chistes, sueños, sintomas, actos fallidos y lapsus.
 - El nombre "formaciones del inconciente" es posterior, pero la catedra lo usa para leer estos fenomenos.
 
 Chiste famillionario:
@@ -842,9 +842,9 @@ Punto fino:
 - En muchos chistes hay condensacion y desplazamiento combinados.
 - Tambien puede pensarse un efecto de dos tiempos: el remate resignifica lo anterior.
 
-#### Practicos - Aparato psiquico y sueno
+#### Practicos - Aparato psiquico y sueño
 
-Punto B de La interpretacion de los suenos:
+Punto B de La interpretacion de los sueños:
 
 - Represion.
 - Figurabilidad en imagenes.
@@ -893,7 +893,7 @@ Esquema del peine:
 - A diferencia del arco reflejo simple, incluye sistemas del aparato psiquico.
 - Mantiene dos polos: perceptivo y motor.
 - Del lado de la percepcion se ubican huellas mnemicas.
-- El Icc es punto de partida para la formacion de suenos.
+- El Icc es punto de partida para la formacion de sueños.
 - Prcc se asocia a atencion y acceso posible a conciencia.
 
 Formula:
@@ -902,12 +902,12 @@ Formula:
 Icc (represion) -> Prcc (atencion) -> Cc
 ```
 
-Sueno:
+Sueño:
 
 - Tiene caracter regrediente.
 - Durante el dormir se cierra la motilidad.
 - La excitacion no descarga hacia el polo motor y vuelve a circular.
-- En el trabajo del sueno, montos y cantidades saltan libremente de representacion en representacion.
+- En el trabajo del sueño, montos y cantidades saltan libremente de representacion en representacion.
 - Esa movilidad permite condensacion y desplazamiento.
 
 Definicion orientativa:
@@ -918,24 +918,24 @@ Temas centrales de practicos:
 
 - Arco reflejo: diagrama y explicacion.
 - Esquema del peine: primera topica.
-- Definicion de sueno.
+- Definicion de sueño.
 - Vivencia de satisfaccion.
 - Condensacion: varios elementos pasan a ser uno.
 - Desplazamiento: lo nimio desplaza a lo importante.
-- Relato del sueno: al narrar se filtra, ordena y pierde parte de la incoherencia; el analisis trabaja con el relato, no con una experiencia pura del sueno.
+- Relato del sueño: al narrar se filtra, ordena y pierde parte de la incoherencia; el analisis trabaja con el relato, no con una experiencia pura del sueño.
 
 #### Practicos - Punto C y E: deseo, cumplimiento y procesos
 
 Paginas marcadas:
 
 - Punto C: acerca del cumplimiento de deseo, paginas 543 y 556-558.
-- Paginas 545-546: sueno como sustituto de un deseo infantil asociado a lo actual diurno.
+- Paginas 545-546: sueño como sustituto de un deseo infantil asociado a lo actual diurno.
 - Punto E: proceso primario, pagina 586.
 - Vivencia de terror: pagina 589, a elaborar con cuidado.
 
 Formula central:
 
-- El sueno es sustituto de un deseo infantil asociado a lo actual diurno.
+- El sueño es sustituto de un deseo infantil asociado a lo actual diurno.
 
 Rasgos del deseo:
 
@@ -1166,7 +1166,7 @@ Formaciones del inconciente a ubicar:
 - Recuerdos encubridores.
 - Chiste.
 - Olvidos de nombres propios.
-- Suenos.
+- Sueños.
 - Errores.
 - Lapsus.
 
@@ -1189,7 +1189,7 @@ flowchart LR
   A --> A4["Vivencia sexual infantil / recuerdo inconciente / cooperacion de recuerdos"]
 
   B --> B1["Recuerdos encubridores"]
-  B --> B2["Suenos"]
+  B --> B2["Sueños"]
   B --> B3["Olvidos"]
   B --> B4["Chiste"]
   B --> B5["Errores y lapsus"]
@@ -1270,11 +1270,11 @@ Ejemplo a desarrollar:
 - Articulacion con la ninera, la madre y el hermano.
 - Funcion del analisis: pasar del recuerdo conservado al enlace reprimido que le da valor.
 
-### Seminario - Primera version de la teoria de la angustia
+### Seminario - Primera versión de la teoría de la angustia
 
 Problema general:
 
-- La primera teoria de la angustia obliga a distinguir neurosis de defensa y neurosis actuales.
+- La primera teoría de la angustia obliga a distinguir neurosis de defensa y neurosis actuales.
 - La diferencia central es si hay o no mecanismo psiquico, representacion, recuerdo inconciente y represion.
 - En las neurosis actuales no opera el dispositivo freudiano basado en recuerdos inconcientes, porque no esta en juego una representacion reprimida.
 
@@ -1292,7 +1292,7 @@ Cuadro principal:
 | Causa | Psiquica, historica, sexual infantil | Actual, sexual, por falla en la descarga |
 | Tratamiento freudiano | Tiene eficacia porque trabaja recuerdos y asociaciones | No alcanza, porque no hay material representacional reprimido |
 
-Tesis de la primera teoria:
+Tesis de la primera teoría:
 
 - La angustia surge por transposicion de tension sexual somatica acumulada.
 - La excitacion sexual somatica no encuentra tramitacion psiquica suficiente.
@@ -1328,20 +1328,20 @@ Distincion de cuerpos:
 Formula breve:
 
 - En la histeria, el cuerpo habla simbolicamente.
-- En la angustia de la primera teoria, el cuerpo descarga una tension no ligada psiquicamente.
+- En la angustia de la primera teoría, el cuerpo descarga una tensión no ligada psíquicamente.
 
-### Seminario - Sueno como formacion del inconciente
+### Seminario - Sueño como formacion del inconciente
 
 Textos y referencias de clase:
 
 - Conferencias 7, 9, 11, 14 y 15.
 - Paginas 285-286: breves pero importantes.
-- La interpretacion de los suenos, capitulo VII, punto B.
+- La interpretacion de los sueños, capitulo VII, punto B.
 
 Punto de orientacion:
 
-- En seminario se trabaja el sueno como formacion del inconciente.
-- El sueno no se lee como simbolismo total ni como clave mistica universal.
+- En seminario se trabaja el sueño como formacion del inconciente.
+- El sueño no se lee como simbolismo total ni como clave mistica universal.
 - La interpretacion freudiana es elemento por elemento, por asociaciones del sonante.
 - El codigo de traduccion pertenece al sonante, aunque no lo conozca concientemente.
 - El metodo es la asociacion libre; donde aparecen resistencias se localiza la censura.
@@ -1350,7 +1350,7 @@ Diagrama general:
 
 ```mermaid
 flowchart TD
-  A["Sueno"] --> B["Acto psiquico de pleno derecho"]
+  A["Sueño"] --> B["Acto psiquico de pleno derecho"]
   A --> C["Interpretable"]
   A --> D["Formacion del inconciente"]
   A --> E["Guardian del dormir"]
@@ -1368,17 +1368,17 @@ flowchart TD
 
 Preguntas rectoras:
 
-- Como se forma el sueno.
+- Como se forma el sueño.
 - Que operaciones intervienen.
 - Sobre que material trabaja.
 - Que funcion cumple.
 - Que valor tiene para la vida animica.
 
-#### Conferencia 7 - Contenido manifiesto del sueno
+#### Conferencia 7 - Contenido manifiesto del sueño
 
 Reglas de interpretacion:
 
-1. No hacer caso a lo que el sueno parece querer decir.
+1. No hacer caso a lo que el sueño parece querer decir.
 2. Evocar representaciones sustitutivas y asociaciones para cada elemento por separado.
 3. Esperar a que lo inconciente se instale por si solo, sin censura.
 
@@ -1394,11 +1394,11 @@ flowchart LR
 
 Claves:
 
-- El sueno es una experiencia alucinatoria.
+- El sueño es una experiencia alucinatoria.
 - No es una pictografia simple.
 - Es escritura en imagenes, comparable a jeroglificos.
 - Importa el valor signante: el sentido depende de la lectura asociativa del sonante.
-- Freud no busca un significado unico del sueno entero, sino una red de asociaciones.
+- Freud no busca un significado unico del sueño entero, sino una red de asociaciones.
 
 Caso para articular: tres entradas por 1,50 florines.
 
@@ -1416,13 +1416,13 @@ Elementos a analizar:
 Punto teorico:
 
 - A veces se toma una parte por el todo: condensacion.
-- Lo propio del sueno es la transposicion en imagenes.
+- Lo propio del sueño es la transposicion en imagenes.
 
 #### Conferencia 9 - La censura onirica
 
 Tesis:
 
-- La funcion del sueno es preservar el dormir.
+- La funcion del sueño es preservar el dormir.
 - Incorpora estimulos exteriores que podrian perturbar el dormir.
 - Es producto del inconciente.
 - Es sobredeterminado.
@@ -1434,7 +1434,7 @@ Esquema:
 ```mermaid
 flowchart LR
   A["Pensamientos censurados"] --> B["Censura onirica"]
-  B --> C["Desfiguracion del sueno"]
+  B --> C["Desfiguracion del sueño"]
   C --> D["Contenido manifiesto"]
   B -.-> E["Resistencia en el analisis"]
 ```
@@ -1459,14 +1459,14 @@ Distincion sobre lo inconciente:
 | Tipo | Idea |
 |---|---|
 | Inconciente temporal | Lo actualmente no conciente, pero susceptible de devenir conciente |
-| Inconciente permanente | Lo no reconocido, articulable con ombligo del sueno y nucleo patogeno |
+| Inconciente permanente | Lo no reconocido, articulable con ombligo del sueño y nucleo patogeno |
 
-#### Conferencia 11 - El trabajo del sueno
+#### Conferencia 11 - El trabajo del sueño
 
 Problema:
 
 - La interpretacion va del contenido manifiesto a los pensamientos oniricos latentes.
-- El trabajo del sueno opera en sentido inverso: transforma pensamientos latentes en contenido manifiesto.
+- El trabajo del sueño opera en sentido inverso: transforma pensamientos latentes en contenido manifiesto.
 
 Operaciones centrales:
 
@@ -1479,9 +1479,9 @@ Operaciones centrales:
 
 Formula breve:
 
-- Interpretar es desandar el trabajo del sueno.
-- El trabajo del sueno no piensa: transforma, desfigura y figura.
-- La rareza del sueno no es un defecto, es el efecto de sus operaciones.
+- Interpretar es desandar el trabajo del sueño.
+- El trabajo del sueño no piensa: transforma, desfigura y figura.
+- La rareza del sueño no es un defecto, es el efecto de sus operaciones.
 
 Condiciones del trabajo del sueño:
 
@@ -1592,7 +1592,7 @@ Deseo inconciente:
 flowchart TD
   A["Primer parcial"] --> B["Parte I - Mapa de cursada y examen"]
   A --> C["Parte II - Guia 1: defensa, histeria y formaciones del inconciente"]
-  A --> D["Parte III - Guia 2: suenos y aparato psiquico"]
+  A --> D["Parte III - Guia 2: sueños y aparato psiquico"]
   A --> E["Parte IV - Comparadores transversales"]
   A --> F["Parte V - Banco de respuestas desarrolladas"]
 
@@ -1607,8 +1607,8 @@ flowchart TD
   D --> D1["Aparato psiquico"]
   D --> D2["Vivencia de satisfaccion y deseo"]
   D --> D3["Proceso primario y secundario"]
-  D --> D4["Trabajo del sueno"]
-  D --> D5["Referentes clinicos de suenos"]
+  D --> D4["Trabajo del sueño"]
+  D --> D5["Referentes clinicos de sueños"]
 
   E --> E1["Tablas de diferencia"]
   E --> E2["Lineas cronologicas conceptuales"]
@@ -1623,7 +1623,7 @@ flowchart TD
 ### 0. Como usar este libro
 
 - Lectura por bloque: teorico, practico, seminario.
-- Lectura por problema: trauma, aparato, deseo, sueno, chiste, sintoma.
+- Lectura por problema: trauma, aparato, deseo, sueño, chiste, sintoma.
 - Lectura por tipo de pregunta: definir, comparar, articular, ejemplificar.
 
 ### 1. Mapa del primer parcial
@@ -1637,7 +1637,7 @@ Cuadros necesarios:
 - Lista de temas "tipicamente practico".
 - Lista de referentes clinicos y que concepto ejemplifica cada uno.
 
-### 2. Guia 1 - Defensa, histeria, formaciones del inconciente y primera teoria de la angustia
+### 2. Guía 1 - Defensa, histeria, formaciones del inconsciente y primera teoría de la angustia
 
 Fuente: `guias-de-lectura/guia1_modulo1.doc`.
 
@@ -1688,7 +1688,7 @@ Textos centrales:
 
 - Etiologia de la histeria.
 - Recuerdos encubridores.
-- Primera teoria de la angustia.
+- Primera teoría de la angustia.
 
 Ejes:
 
@@ -1702,13 +1702,13 @@ Ejes:
 - Conflicto psiquico y defensa.
 - Recuerdo encubridor como sustituto por desplazamiento.
 - Memoria tendenciosa.
-- Primera teoria de la angustia: tension sexual somatica acumulada que no logra ligadura psiquica y se transpone en angustia.
+- Primera teoría de la angustia: tensión sexual somática acumulada que no logra ligadura psíquica y se transpone en angustia.
 
 Cuadros a construir:
 
 - Condicion psicologica vs condicion etiologica.
 - Recuerdo traumatico vs recuerdo encubridor.
-- Angustia de primera teoria vs angustia ligada a represion en desarrollos posteriores.
+- Angustia de primera teoría vs angustia ligada a represión en desarrollos posteriores.
 
 #### 2.3 Practicos: defensa, Emma, Manuscrito K, olvido y chiste
 
@@ -1749,15 +1749,15 @@ Cuadros a construir:
 - Estratificacion del material psiquico en Elisabeth von R.
 - Olvido de nombre propio vs chiste como formaciones del inconciente.
 
-### 3. Guia 2 - Suenos y aparato psiquico
+### 3. Guia 2 - Sueños y aparato psiquico
 
-Fuente: Guia 2, modulo "Suenos y aparato psiquico".
+Fuente: Guia 2, modulo "Sueños y aparato psiquico".
 
 #### 3.1 Teoricos: primera ordenacion metapsicologica
 
 Textos centrales:
 
-- La interpretacion de los suenos, capitulo VII, puntos B, C y E.
+- La interpretacion de los sueños, capitulo VII, puntos B, C y E.
 - Carta 52.
 
 Ejes:
@@ -1766,7 +1766,7 @@ Ejes:
 - Percepcion, memoria, huella mnemica y asociacion.
 - Camino progrediente y regrediente.
 - El otro escenario.
-- Caracter alucinatorio del sueno.
+- Caracter alucinatorio del sueño.
 - Vivencia de satisfaccion.
 - Deseo como busqueda de identidad perceptiva perdida.
 - Pensar como rodeo e inhibicion de la regresion.
@@ -1786,14 +1786,14 @@ Diagramas necesarios:
 
 Ejes:
 
-- Sueno como acto psiquico de pleno derecho.
-- Sueno como formacion del inconciente.
-- Sueno como realizacion de deseo.
-- Sueno como guardian del dormir.
-- Trabajo del sueno: condensacion, desplazamiento, figurabilidad, elaboracion secundaria.
+- Sueño como acto psiquico de pleno derecho.
+- Sueño como formacion del inconciente.
+- Sueño como realizacion de deseo.
+- Sueño como guardian del dormir.
+- Trabajo del sueño: condensacion, desplazamiento, figurabilidad, elaboracion secundaria.
 - Regresion.
 - Proceso primario y secundario.
-- Formaciones de compromiso: sueno, sintoma, lapsus, chiste.
+- Formaciones de compromiso: sueño, sintoma, lapsus, chiste.
 
 Cuadro clave:
 
@@ -1802,35 +1802,35 @@ Cuadro clave:
 | Proceso primario | Icc | Movil | Identidad perceptiva | Condensacion y desplazamiento | Cumplimiento alucinatorio de deseo |
 | Proceso secundario | Prcc/Cc | Quiescente o ligada | Identidad de pensamiento | Inhibicion, rodeo, motilidad | Pensamiento y aplazamiento |
 
-#### 3.3 Seminarios: formaciones del inconciente, suenos
+#### 3.3 Seminarios: formaciones del inconciente, sueños
 
 Textos centrales:
 
-- La interpretacion de los suenos, capitulo VI: trabajo del sueno.
-- Capitulo VII, punto A: olvido del sueno.
+- La interpretacion de los sueños, capitulo VI: trabajo del sueño.
+- Capitulo VII, punto A: olvido del sueño.
 - Conferencias de introduccion al psicoanalisis.
 - Conferencia 15.
 - El interes por el psicoanalisis.
 
 Ejes:
 
-- Sueno como escritura jeroglifica.
+- Sueño como escritura jeroglifica.
 - Contenido manifiesto vs pensamientos latentes.
 - Condensacion.
 - Desplazamiento.
 - Medios de figuracion.
 - Miramiento por la figurabilidad.
 - Elaboracion secundaria.
-- Ombligo del sueno.
+- Ombligo del sueño.
 - Censura.
 - Restos diurnos.
-- Deseo inconciente como motor del sueno.
+- Deseo inconciente como motor del sueño.
 
 Referentes clinicos:
 
 - Padre, entonces, no ves que estoy ardiendo.
-- Sueno del salmon ahumado.
-- Sueno de las tres entradas de teatro.
+- Sueño del salmon ahumado.
+- Sueño de las tres entradas de teatro.
 
 ### 4. Comparadores transversales
 
@@ -1843,14 +1843,14 @@ Estos capitulos deberian funcionar como "tablas de examen".
 5. Figurabilidad vs elaboracion secundaria.
 6. Proceso primario vs proceso secundario.
 7. Regresion topica vs regresion formal vs regresion temporal, si aparece en la bibliografia de la catedra.
-8. Sueno vs sintoma vs lapsus vs chiste.
+8. Sueño vs sintoma vs lapsus vs chiste.
 9. Trauma histerico vs trauma en dos tiempos.
 10. Teorico vs practico vs seminario: mismo texto, distinto uso.
 11. Histeria traumatica vs histeria comun vs histeria de defensa.
 12. Resistencia de asociacion vs resistencia radial.
-13. Condensacion en el sueno vs condensacion en el chiste.
+13. Condensacion en el sueño vs condensacion en el chiste.
 14. Sobredeterminacion del sintoma vs sobredeterminacion del olvido.
-15. Primera teoria de la angustia vs angustia articulada a represion.
+15. Primera teoría de la angustia vs angustia articulada a represión.
 
 ### 5. Banco de respuestas desarrolladas
 
@@ -1859,16 +1859,16 @@ Formato de cada respuesta:
 1. Tesis inicial en 3-5 lineas.
 2. Desarrollo conceptual ordenado.
 3. Articulacion con texto freudiano.
-4. Ejemplo clinico o ejemplo de chiste/sueno si corresponde.
+4. Ejemplo clinico o ejemplo de chiste/sueño si corresponde.
 5. Cierre que retome la pregunta.
 
 Primeras respuestas a preparar:
 
-- Construccion del aparato psiquico en el capitulo VII de La interpretacion de los suenos.
+- Construccion del aparato psiquico en el capitulo VII de La interpretacion de los sueños.
 - Vivencia de satisfaccion y constitucion del deseo.
 - Proceso primario y secundario.
-- Trabajo del sueno: condensacion, desplazamiento, figurabilidad y elaboracion secundaria.
-- Sueno como cumplimiento de deseo: salmon ahumado / tres entradas / padre ardiendo.
+- Trabajo del sueño: condensacion, desplazamiento, figurabilidad y elaboracion secundaria.
+- Sueño como cumplimiento de deseo: salmon ahumado / tres entradas / padre ardiendo.
 - Trauma: distinguir mecanismo psiquico y dos tiempos.
 - Estratificacion del material psiquico en Elisabeth von R.
 - Chiste: famillionaire y bano del judio.

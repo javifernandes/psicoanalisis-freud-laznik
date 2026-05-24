@@ -37,6 +37,8 @@ flowchart LR
 
 Con Anna O. aparece otra escena: **no se trata solo de un golpe**, sino de síntomas ligados a historias, palabras, recuerdos y afectos. La hipnosis permite recuperar escenas olvidadas. Cuando el recuerdo aparece y el afecto se descarga, el síntoma puede ceder. **Este es el núcleo del método catártico.**
 
+Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
+
 ### Checkpoint: Breuer y Freud
 
 ```mermaid

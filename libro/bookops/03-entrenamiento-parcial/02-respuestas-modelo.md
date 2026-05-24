@@ -4,19 +4,19 @@
 
 Estas respuestas estan pensadas para practicar desarrollo de parcial. No son resumenes exhaustivos: buscan ordenar una tesis, desplegar conceptos precisos y cerrar con una articulacion.
 
-## 1. Aparato psiquico y caracter alucinatorio del sueno
+## 1. Aparato psiquico y caracter alucinatorio del sueño
 
-Freud construye el aparato psiquico en el capitulo VII de La interpretacion de los suenos a partir del modelo del arco reflejo, pero lo transforma. El arco reflejo supone un recorrido simple: estimulo, polo perceptivo, polo motor y descarga. Freud introduce entre percepcion y motilidad sistemas de huellas mnemicas, porque la percepcion y la memoria no pueden pertenecer al mismo sistema: la percepcion recibe estimulos, mientras que la memoria conserva alteraciones permanentes.
+Freud construye el aparato psiquico en el capitulo VII de La interpretacion de los sueños a partir del modelo del arco reflejo, pero lo transforma. El arco reflejo supone un recorrido simple: estimulo, polo perceptivo, polo motor y descarga. Freud introduce entre percepcion y motilidad sistemas de huellas mnemicas, porque la percepcion y la memoria no pueden pertenecer al mismo sistema: la percepcion recibe estimulos, mientras que la memoria conserva alteraciones permanentes.
 
 La huella mnemica es una alteracion permanente de un sistema. Las huellas se asocian por simultaneidad, semejanza o contiguidad, facilitando el pasaje de la excitacion de una a otra. Asi se constituye un aparato con una espacialidad fija, organizada entre polo perceptivo y polo motor, pero con una temporalidad variable segun la direccion que tome la excitacion.
 
-En la vigilia, la excitacion tiende a avanzar en direccion progrediente hacia la motilidad. En el dormir, el polo motor se encuentra cerrado: no hay descarga motriz. Entonces, la excitacion impulsada por el deseo inconciente retorna en direccion regrediente hacia huellas cercanas al polo perceptivo. Ese retorno explica el caracter alucinatorio del sueno: el sueño se vive como percepcion presente, aunque se trate de una formacion psiquica.
+En la vigilia, la excitacion tiende a avanzar en direccion progrediente hacia la motilidad. En el dormir, el polo motor se encuentra cerrado: no hay descarga motriz. Entonces, la excitacion impulsada por el deseo inconciente retorna en direccion regrediente hacia huellas cercanas al polo perceptivo. Ese retorno explica el caracter alucinatorio del sueño: el sueño se vive como percepcion presente, aunque se trate de una formacion psiquica.
 
-Por eso el sueno es prueba del inconciente y no mero fenomeno fisiologico. Su aparente percepcion no viene del mundo exterior, sino de la regresion de la excitacion hacia huellas perceptivas. El sueño realiza alucinatoriamente un deseo porque, cerrado el camino motor, la excitacion vuelve hacia la imagen.
+Por eso el sueño es prueba del inconciente y no mero fenomeno fisiologico. Su aparente percepcion no viene del mundo exterior, sino de la regresion de la excitacion hacia huellas perceptivas. El sueño realiza alucinatoriamente un deseo porque, cerrado el camino motor, la excitacion vuelve hacia la imagen.
 
-## 2. Trabajo del sueno y tres entradas de teatro
+## 2. Trabajo del sueño y tres entradas de teatro
 
-El trabajo del sueno es el conjunto de operaciones que transforma pensamientos oniricos latentes en contenido manifiesto. La interpretacion va en sentido inverso: parte del relato del sueño y, por asociacion libre, reconstruye los pensamientos latentes y el deseo inconciente que lo motoriza.
+El trabajo del sueño es el conjunto de operaciones que transforma pensamientos oniricos latentes en contenido manifiesto. La interpretacion va en sentido inverso: parte del relato del sueño y, por asociacion libre, reconstruye los pensamientos latentes y el deseo inconciente que lo motoriza.
 
 Las operaciones principales son condensacion, desplazamiento, miramiento por la figurabilidad y elaboracion secundaria. La condensacion hace que varios elementos latentes confluyan en uno manifiesto; por eso el sueño no traduce termino a termino. El desplazamiento mueve el acento psiquico: lo importante puede aparecer como nimio, y lo secundario ocupar el centro. El miramiento por la figurabilidad transpone pensamientos en imagenes visuales, dando al sueño su forma escenica. La elaboracion secundaria agrega orden y fachada racional al contenido manifiesto.
 
@@ -56,7 +56,7 @@ El sintoma surge de la articulacion entre ambas escenas. Hay determinismo porque
 
 ## 6. Experiencia de satisfaccion y deseo
 
-En el punto C del capitulo VII de La interpretacion de los suenos, Freud se pregunta por la naturaleza psiquica del desear. Para responder, introduce la vivencia de satisfaccion. El punto de partida es el apremio de la vida: estimulos internos, como el hambre, que no son momentaneos y de los cuales no se puede huir. El bebe puede llorar, pero el llanto no satisface la necesidad.
+En el punto C del capitulo VII de La interpretacion de los sueños, Freud se pregunta por la naturaleza psiquica del desear. Para responder, introduce la vivencia de satisfaccion. El punto de partida es el apremio de la vida: estimulos internos, como el hambre, que no son momentaneos y de los cuales no se puede huir. El bebe puede llorar, pero el llanto no satisface la necesidad.
 
 La vivencia de satisfaccion se produce cuando una tension interna se enlaza con un objeto que la calma. De esa experiencia quedan huellas: una huella de la tension y una huella del objeto, asociadas por simultaneidad. Cuando reaparece la tension, el aparato busca reinvestir la huella del objeto que produjo satisfaccion.
 
@@ -74,9 +74,9 @@ Los recuerdos encubridores responden a una logica semejante. Un recuerdo aparent
 
 Por eso Freud afirma que los recuerdos infantiles son encubridores: no poseemos una copia fiel de la huella originaria, sino una elaboracion posterior, atravesada por experiencias ulteriores. La memoria es tendenciosa. Tanto Signorelli como los recuerdos encubridores muestran que lo inconciente se hace presente por sustituciones.
 
-## 8. Primera teoria de la angustia
+## 8. Primera teoría de la angustia
 
-La primera teoria freudiana de la angustia distingue las neurosis de defensa de las neurosis actuales. En las neurosis de defensa, como la histeria y la neurosis obsesiva, hay mecanismo psiquico, representacion inconciliable, defensa, recuerdos inconcientes y posibilidad de trabajo analitico. En las neurosis actuales, como la neurastenia y la neurosis de angustia, no esta en juego una representacion reprimida.
+La primera teoría freudiana de la angustia distingue las neurosis de defensa de las neurosis actuales. En las neurosis de defensa, como la histeria y la neurosis obsesiva, hay mecanismo psíquico, representación inconciliable, defensa, recuerdos inconscientes y posibilidad de trabajo analítico. En las neurosis actuales, como la neurastenia y la neurosis de angustia, no está en juego una representación reprimida.
 
 La angustia, en esta primera version, surge por acumulacion de tension sexual somatica que no logra tramitacion psiquica. La tension fisica deberia alcanzar un enlace con una representacion sexual o fantasia y encontrar una descarga. Si ese enlace no se produce, la excitacion no se liga psiquicamente y se transpone en angustia.
 

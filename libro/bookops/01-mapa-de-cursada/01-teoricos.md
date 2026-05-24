@@ -10,7 +10,7 @@ Ejes:
 
 - Punto de apoyo en Charcot.
 - Diferencia entre trauma fisico y trauma psiquico.
-- Anna O. y vivencias tenidas de afecto.
+- [Anna O.](../05-apendice-casos/00-caso-anna-o.md) y vivencias tenidas de afecto.
 - Principio de constancia.
 - Afecto no abreaccionado.
 - Sintoma como cuerpo que habla.
@@ -22,6 +22,8 @@ Cuadro minimo:
 | Histeria traumatica, gran trauma fisico | Histeria comun, historia de padecimiento |
 | Accidente y peligro corporal | Vivencia con afecto no tramitado |
 | Hipnosis reproduce sintomas | Hipnosis recupera recuerdos |
+
+Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
 
 ## 2. Psicoterapia de la histeria
 
@@ -41,12 +43,12 @@ Puntos clave:
 - El material psiquico no es lineal: es multidimensional.
 - El sintoma esta sobredeterminado.
 
-## 3. 1900: sueno y aparato psiquico
+## 3. 1900: sueño y aparato psiquico
 
 Ejes:
 
 - El sueño no se estudia solo como fenomeno, sino como via para construir el aparato psiquico.
-- Formaciones del inconciente: suenos, chistes, lapsus, olvidos.
+- Formaciones del inconciente: sueños, chistes, lapsus, olvidos.
 - El inconciente es un sistema con reglas propias.
 - El sueño es psiquico, no meramente fisiologico.
 
