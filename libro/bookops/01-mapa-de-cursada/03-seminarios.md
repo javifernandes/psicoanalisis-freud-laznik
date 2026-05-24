@@ -4,6 +4,8 @@
 
 Seminarios trabaja la etiologia, las formaciones del inconciente, la angustia y el sueño como formacion del inconciente.
 
+Ver también: [Textos de Freud y ejes principales](../04-textos-de-freud/01-textos-de-freud-y-ejes.md)
+
 ## 1. Etiologia de la histeria
 
 Ejes:

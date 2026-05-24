@@ -68,6 +68,17 @@ El trabajo del chiste no inventa desde cero: **reacomoda el acento** y hace que 
 | Baño del judío | Literalidad y desplazamiento | Cambio de lectura |
 | Becerro de oro | Desplazamiento del acento | Reacomodo del valor |
 
+## Otros chistes importantes
+
+| Chiste | Mecanismo | Qué conviene retener |
+|---|---|---|
+| Becerro de oro / “este ya no es tan joven” | Desplazamiento del acento | Se desplaza el valor simbólico de una expresión conocida |
+| Baño del judío | Desplazamiento y literalidad | Una frase se fuerza a un registro literal inesperado |
+| Profesor y alcohol | Doble sentido y desplazamiento | El efecto depende de una ambigüedad verbal |
+| Casamentero | Desplazamiento y agudeza | Cambia la hilación del pensamiento y reubica el sentido |
+
+Esto ayuda a no quedarse solo con `famillionario`. En parcial conviene poder mostrar que **Freud no usa un único ejemplo** y que el trabajo del chiste combina distintas técnicas.
+
 ## Diagrama de lectura
 
 ```mermaid

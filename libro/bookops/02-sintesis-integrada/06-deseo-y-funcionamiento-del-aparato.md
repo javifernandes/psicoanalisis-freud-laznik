@@ -58,6 +58,15 @@ Rasgos:
 - inconciente;
 - reprimido.
 
+Cuadro de rasgos:
+
+| Rasgo | Qué conviene decir |
+|---|---|
+| Infantil | Se sostiene en la primera satisfacción y en lo fundante del aparato |
+| Inmortal | No se agota ni se satisface de una vez para siempre |
+| Inconciente | No coincide con el anhelo que el sujeto puede formular |
+| Reprimido | Solo puede aparecer disfrazado o trabajado por otras formaciones |
+
 *Deseo no es lo mismo que anhelo.* El anhelo puede formularse en el preconciente: "quiero dormir", "quiero comer frutillas", "quisiera tal cosa". *El \concept{deseo inconciente} es la fuerza que motoriza la formación del sueño.* Freud lo compara con el socio capitalista: aporta la energía.
 
 ### Checkpoint: deseo inconciente
@@ -108,6 +117,29 @@ flowchart TD
 ## Formula
 
 *El pensamiento es sustituto del deseo alucinatorio.*
+
+## Principio de constancia y principio de placer
+
+| Eje | Principio de constancia | Principio de placer/displacer |
+|---|---|---|
+| Modelo | Necesidad | Deseo |
+| Problema | Aumento de tensión | Tensión ligada a huellas y satisfacción perdida |
+| Respuesta esperada | Descarga o disminución de tensión | Tramitación psíquica de estímulos internos |
+| Lógica | Descargar | Sostener, ligar, rodear, soportar displacer |
+| Objeto | Objeto adecuado a la necesidad | Objeto buscado que nunca coincide plenamente con la huella |
+| Resultado | Descarga | Deseo como tensión irreductible |
+
+Este pasaje es importante. **El principio de constancia no desaparece**, pero deja de alcanzar como modelo suficiente. Con el deseo ya no se trata solo de descargar excitación: **se trata de un aparato movido por una satisfacción perdida que retorna como huella**.
+
+## Vivencia de terror
+
+Como contrapunto de la vivencia de satisfacción, conviene ubicar una idea más provisoria pero útil:
+
+- si una huella queda asociada a **terror o displacer**, el aparato tiende a evitar su reinvestidura;
+- esa evitación ayuda a pensar **inhibición, defensa y límite** de una pura búsqueda de placer;
+- no toda huella atrae: algunas también organizan rodeos, evitaciones y rechazo.
+
+No es el eje principal del parcial, pero sirve para complejizar la idea de que el aparato no busca de manera directa cualquier reinvestidura posible.
 
 ## Cuadro clave
 

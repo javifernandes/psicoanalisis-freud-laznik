@@ -103,6 +103,6 @@ flowchart TD
 
 Casos guia para ampliar:
 
-- [Caso Signorelli](../05-apendice-casos/04-caso-signorelli.md)
-- [Recuerdos encubridores](../05-apendice-casos/05-recuerdos-encubridores.md)
-- [Chistes](../05-apendice-casos/06-chistes.md)
+- [Caso Signorelli](../03-apendice-casos/04-caso-signorelli.md)
+- [Recuerdos encubridores](../03-apendice-casos/05-recuerdos-encubridores.md)
+- [Chistes](../03-apendice-casos/06-chistes.md)
