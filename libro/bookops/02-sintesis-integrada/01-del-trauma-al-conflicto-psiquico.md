@@ -30,12 +30,14 @@ flowchart LR
 
 - **Anna O.**
 - Hipnosis para recuperar recuerdos.
-- **Vivencias tenidas de afecto.**
+- **Vivencias teñidas de afecto.**
 - Afecto que no se desgasto con el tiempo.
 - Historia de padecimiento, no un único episodio.
 - **Método catártico: \concept{abreacción}.**
 
 Con Anna O. aparece otra escena: **no se trata solo de un golpe**, sino de síntomas ligados a historias, palabras, recuerdos y afectos. La hipnosis permite recuperar escenas olvidadas. Cuando el recuerdo aparece y el afecto se descarga, el síntoma puede ceder. **Este es el núcleo del método catártico.**
+
+Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
 
 ### Checkpoint: Breuer y Freud
 
@@ -43,7 +45,7 @@ Con Anna O. aparece otra escena: **no se trata solo de un golpe**, sino de sínt
 flowchart LR
   A["Anna O."] --> B["Hipnosis"]
   B --> C["Recuperacion de recuerdos"]
-  C --> D["Vivencias tenidas de afecto"]
+  C --> D["Vivencias teñidas de afecto"]
   D --> E["Abreaccion"]
   E --> F["Cede el sintoma"]
 ```
@@ -53,6 +55,8 @@ flowchart LR
 **El aparato busca disminuir la suma de excitación.** Si un afecto queda estrangulado y no se descarga por vía motriz, palabra o asociación, conserva intensidad y puede producir síntoma.
 
 *La \concept{abreacción} es la descarga adecuada de ese afecto.* Puede ocurrir por una reacción motriz, por la palabra o por un procesamiento asociativo. Cuando esa descarga no ocurre, el recuerdo conserva una intensidad anormal. En ese sentido, *el síntoma histérico aparece como una solución fallida*: algo que no pudo tramitarse psíquicamente encuentra otra vía.
+
+Ver también: [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md)
 
 ## Trauma psiquico
 
@@ -108,3 +112,9 @@ flowchart LR
   G --> H["Giro freudiano"]
   H --> I["Conflicto / defensa / resistencia / retroaccion"]
 ```
+
+## Casos emblemáticos de este tramo
+
+- [Anna O.](../05-apendice-casos/00-caso-anna-o.md): historia de padecimiento, hipnosis, abreacción y método catártico.
+- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md): referencia simbólica del síntoma y cuerpo que habla.
+- [Emma](../05-apendice-casos/02-caso-emma.md): trauma en dos tiempos y eficacia póstuma del recuerdo.

@@ -116,7 +116,7 @@ flowchart LR
 
 *El síntoma tiene determinación múltiple: varias cadenas asociativas convergen en puntos nodales.*
 
-## Diferencia util
+## Diferencia útil
 
 | Emma | Elisabeth |
 |---|---|
@@ -137,3 +137,8 @@ flowchart LR
   H --> I["Sobredeterminacion"]
   I --> E
 ```
+
+Casos guia para ampliar:
+
+- [Caso Emma](../05-apendice-casos/02-caso-emma.md)
+- [Caso Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md)

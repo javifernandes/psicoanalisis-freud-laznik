@@ -50,7 +50,7 @@ Ejes:
 - Becerro de oro.
 - Baño del judio.
 
-## 4. Aparato psiquico y sueno
+## 4. Aparato psiquico y sueño
 
 Ejes:
 

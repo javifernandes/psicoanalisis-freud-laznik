@@ -41,9 +41,13 @@ flowchart LR
 
 En la histeria, **el monto de afecto pasa al cuerpo**. Freud llama \concept{conversión} a esta transposición. **El síntoma corporal no es arbitrario:** conserva algún nexo simbólico o asociativo con la representación inconciliable. Por eso se puede leer. **El cuerpo histérico no es puro cuerpo orgánico:** es cuerpo tomado por lenguaje e historia.
 
+Ver también: [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md), [Caso Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md)
+
 ## Neurosis obsesiva
 
 En la neurosis obsesiva, si no hay conversión, **el monto de afecto se enlaza con otra representación**. Esa nueva representación no era en sí misma inconciliable, pero se vuelve obsesiva porque recibe un afecto que no le pertenecía. **Freud llama a esto \concept{falso enlace}.**
+
+Ver también: [Caso Emma](../05-apendice-casos/02-caso-emma.md)
 
 ## Psicosis
 
@@ -120,3 +124,9 @@ flowchart TD
   L --> N
   N --> O["Sintoma como formacion de compromiso"]
 ```
+
+## Casos emblemáticos de este tramo
+
+- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md): nexo simbólico entre afrenta psíquica y síntoma corporal.
+- [Emma](../05-apendice-casos/02-caso-emma.md): defensa, formación del síntoma y articulación entre escenas.
+- [Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md): sobredeterminación, resistencia y lectura analítica del síntoma.

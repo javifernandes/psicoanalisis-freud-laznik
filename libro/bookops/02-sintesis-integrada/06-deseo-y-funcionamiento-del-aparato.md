@@ -86,18 +86,23 @@ Diagrama:
 
 ```mermaid
 flowchart TD
-  subgraph P["Proceso primario"]
-    P1["Tension"] --> P2["Deseo"]
-    P2 -->|via regrediente| P3["Retorno a huella perceptiva"]
-    P3 --> P4["Alucinacion"]
-  end
-
   subgraph S["Proceso secundario"]
+    direction LR
     S1["Tension"] --> S2["Pensamiento"]
     S2 -->|via progrediente| S3["Rodeo"]
     S3 --> S4["Accion"]
     S4 --> S5["Objeto posible"]
   end
+
+  subgraph P["Proceso primario"]
+    direction LR
+    P1["Tension"] --> P2["Deseo"]
+    P2 -->|via regrediente| P3["Retorno a huella perceptiva"]
+    P3 --> P4["Alucinacion"]
+  end
+
+  S --> P
+  linkStyle 6 stroke:transparent,fill:none;
 ```
 
 ## Formula

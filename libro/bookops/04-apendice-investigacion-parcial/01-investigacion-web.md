@@ -1,8 +1,8 @@
-# Investigacion web - primer parcial Laznik
+# Investigación web - primer parcial Laznik
 
 ## Criterio
 
-Busqueda web orientada a ejemplos de primer parcial de Psicoanalisis Freud, catedra Laznik / ex Cosentino, UBA. Las fuentes externas se usan solo como indicios de recurrencia: la base fuerte de estudio sigue siendo programa, guias de lectura y notas de clase.
+Búsqueda web orientada a ejemplos de primer parcial de Psicoanálisis Freud, cátedra Laznik / ex Cosentino, UBA. Las fuentes externas se usan solo como indicios de recurrencia: la base fuerte de estudio sigue siendo programa, guías de lectura y notas de clase.
 
 ## Fuentes localizadas
 
@@ -26,14 +26,14 @@ Fuente:
 
 Temas que aparecen:
 
-- Primera teoria de la angustia.
+- Primera teoría de la angustia.
 - Olvido de nombres propios con Signorelli.
-- Caracter alucinatorio del sueno y construccion del aparato psiquico.
+- Caracter alucinatorio del sueño y construccion del aparato psiquico.
 - Histeria como histeria traumatica.
 
 Lectura estrategica:
 
-- Coincide mucho con tus notas: angustia, Signorelli, aparato/sueno y trauma.
+- Coincide mucho con tus notas: angustia, Signorelli, aparato/sueño y trauma.
 - Confirma que no alcanza estudiar solo aparato psiquico; tambien puede entrar seminario de angustia y formaciones del inconciente.
 
 ### Primer parcial 2022 - variante B
@@ -63,7 +63,7 @@ Fuente:
 Temas que aparecen:
 
 - Trauma psiquico en Mecanismo psiquico de los fenomenos histericos y principio de constancia.
-- Operaciones del trabajo del sueno con ejemplo de las tres entradas de teatro.
+- Operaciones del trabajo del sueño con ejemplo de las tres entradas de teatro.
 - Formacion de sintoma en Neuropsicosis de defensa.
 - Exclusion entre percepcion y memoria en la construccion del aparato psiquico.
 
@@ -82,7 +82,7 @@ Temas que aparecen:
 - Dos modos de resistencia en Psicoterapia de la histeria, con Elisabeth.
 - Todo recuerdo como encubridor.
 - Temporalidad retroactiva del trauma con Emma.
-- Caracter alucinatorio del sueno articulado con regresion.
+- Caracter alucinatorio del sueño articulado con regresion.
 
 Lectura estrategica:
 
@@ -101,7 +101,7 @@ Temas que aparecen:
 - Ordenamiento multidimensional del material psiquico.
 - Sintoma en la neuropsicosis de defensa.
 - Aparato psiquico y diferencia con arco reflejo.
-- Trabajo del sueno.
+- Trabajo del sueño.
 
 Lectura estrategica:
 
@@ -120,7 +120,7 @@ Utilidad:
 
 - Aportan listas de preguntas y respuestas de estudiantes.
 - Sirven para detectar recurrencias, no para copiar respuestas.
-- Algunos documentos mezclan material, respuestas parciales o errores conceptuales; controlar siempre con guias y clases.
+- Algunos documentos mezclan material, respuestas parciales o errores conceptuales; controlar siempre con guías y clases.
 
 Temas recurrentes que confirman:
 
@@ -130,20 +130,20 @@ Temas recurrentes que confirman:
 - Aparato psiquico y diferencia con arco reflejo.
 - Percepcion y memoria se excluyen.
 - Formaciones del inconciente: olvido de nombre propio.
-- Trabajo del sueno y tres entradas de teatro.
-- Caracter alucinatorio del sueno.
+- Trabajo del sueño y tres entradas de teatro.
+- Caracter alucinatorio del sueño.
 
 ## Conclusiones de busqueda
 
 Los temas mas recurrentes en examenes encontrados son:
 
-1. Aparato psiquico, arco reflejo, percepcion/memoria y caracter alucinatorio del sueno.
-2. Trabajo del sueno: condensacion, desplazamiento, figurabilidad, elaboracion secundaria.
+1. Aparato psiquico, arco reflejo, percepcion/memoria y caracter alucinatorio del sueño.
+2. Trabajo del sueño: condensacion, desplazamiento, figurabilidad, elaboracion secundaria.
 3. Defensa, conflicto psiquico y sintoma como formacion sustitutiva.
 4. Ordenamiento multidimensional del material psiquico y Elisabeth von R.
 5. Emma, Manuscrito K, defensa nociva y temporalidad retroactiva.
 6. Formaciones del inconciente: recuerdos encubridores, Signorelli, chiste.
-7. Primera teoria de la angustia y diferencia con neurosis de defensa.
+7. Primera teoría de la angustia y diferencia con neurosis de defensa.
 
 Hipotesis fuerte:
 
