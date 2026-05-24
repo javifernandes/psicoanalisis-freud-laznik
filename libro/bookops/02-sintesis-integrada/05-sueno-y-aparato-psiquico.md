@@ -38,14 +38,9 @@ flowchart LR
 
 Diagrama del aparato:
 
-```mermaid
-flowchart LR
-  A["Polo perceptivo<br/>percepcion"] --> B["Sistemas de huellas<br/>huellas mnemicas asociadas"]
-  B --> C["Sistemas psiquicos<br/>Icc / Prcc / Cc"]
-  C --> D["Polo motor<br/>motilidad"]
-  A -. "direccion progrediente" .-> D
-  D -. "direccion regrediente si la motilidad se cierra" .-> B
-```
+![Esquema del peine freudiano con polos, huellas y sistemas](peine.jpg)
+
+*Esquema clásico del "peine": polo perceptivo, series de huellas mnémicas, sistemas psíquicos y polo motor.*
 
 **El arco reflejo simple no alcanza** porque no explica memoria, deseo ni sueño. Freud necesita un aparato que pueda conservar huellas, asociarlas y permitir recorridos no lineales de la excitación.
 
@@ -84,19 +79,9 @@ El sueño parece percepción porque la excitación vuelve hacia el polo percepti
 
 Regresion en el sueño:
 
-```mermaid
-flowchart TD
-  subgraph V["Vigilia"]
-    V1["Huellas / pensamientos"] -->|via progrediente| V2["Accion"]
-  end
+![Esquema del peine durante el dormir, con cierre de la motilidad y regresion al polo perceptivo](peine1.gif)
 
-  subgraph D["Dormir"]
-    D1["Accion cerrada"] --> D2["La excitacion no descarga en motilidad"]
-    D3["Deseo inconciente"] -->|via regrediente| D4["Retorno hacia huellas / pensamientos"]
-    D2 --> D4
-    D4 --> D5["Imagen alucinatoria"]
-  end
-```
+*Durante el dormir se cierra la motilidad y la excitación regresa hacia el polo perceptivo: por eso el sueño tiene carácter alucinatorio.*
 
 ## Carta 52
 

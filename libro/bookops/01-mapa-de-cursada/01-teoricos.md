@@ -63,6 +63,16 @@ Ejes:
 - Via progrediente y regrediente.
 - Caracter alucinatorio del sueño.
 
+Figuras clave:
+
+![Esquema del peine freudiano con polos, huellas y sistemas](../02-sintesis-integrada/peine.jpg)
+
+*Ubica de un golpe el polo perceptivo, las huellas mnémicas, los sistemas psíquicos y el polo motor.*
+
+![Esquema del peine durante el dormir, con cierre de la motilidad y regresion al polo perceptivo](../02-sintesis-integrada/peine1.gif)
+
+*Durante el dormir se cierra la motilidad y la excitación regresa: ahí aparece el carácter alucinatorio del sueño.*
+
 ## 5. Carta 52 y deseo
 
 Ejes:
