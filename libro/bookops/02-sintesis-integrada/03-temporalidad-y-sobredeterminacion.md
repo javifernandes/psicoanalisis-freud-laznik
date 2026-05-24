@@ -137,3 +137,8 @@ flowchart LR
   H --> I["Sobredeterminacion"]
   I --> E
 ```
+
+Casos guia para ampliar:
+
+- `04-apendices/03-caso-emma.md`
+- `04-apendices/04-caso-elisabeth-von-r.md`

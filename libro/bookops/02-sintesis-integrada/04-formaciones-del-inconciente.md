@@ -49,7 +49,7 @@ flowchart LR
 ```mermaid
 flowchart LR
   A["Nombre buscado"] --> B["Tema reprimido"]
-  B --> C["Puentes linguisticos"]
+  B --> C["Puentes lingüísticos"]
   C --> D["Nombres sustitutivos"]
   D --> E["Olvido con sentido"]
 ```
@@ -67,7 +67,7 @@ Ejemplos:
 
 - famillionario;
 - becerro de oro;
-- baño del judio.
+- baño del judío.
 
 En el chiste famillionario, **dos cadenas verbales se condensan en una palabra mixta**. En el chiste del baño, el efecto depende de una literalización y un desplazamiento. **El chiste muestra que el inconciente trabaja con palabras, sonidos y desplazamientos de acento.**
 
@@ -76,7 +76,7 @@ En el chiste famillionario, **dos cadenas verbales se condensan en una palabra m
 | Formacion | Mecanismo fuerte |
 |---|---|
 | Recuerdo encubridor | Desplazamiento |
-| Signorelli | Sustitucion y puentes linguisticos |
+| Signorelli | Sustitución y puentes lingüísticos |
 | Chiste | Condensacion/desplazamiento |
 | Sueño | Trabajo del sueño |
 | Sintoma | Compromiso y retorno |
@@ -95,8 +95,13 @@ flowchart TD
   A --> E["Sueño"]
   A --> F["Sintoma"]
   B --> G["Desplazamiento"]
-  C --> H["Sustitucion / puentes linguisticos"]
+  C --> H["Sustitución / puentes lingüísticos"]
   D --> I["Condensacion / desplazamiento"]
   E --> J["Trabajo del sueño"]
   F --> K["Compromiso / retorno"]
 ```
+
+Casos guia para ampliar:
+
+- `04-apendices/05-caso-signorelli.md`
+- `04-apendices/06-recuerdos-encubridores-y-chistes.md`

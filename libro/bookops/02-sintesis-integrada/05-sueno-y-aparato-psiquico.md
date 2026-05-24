@@ -19,7 +19,7 @@ En teóricos, el interés no es solo interpretar sueños. **El sueño le permite
 
 *El objeto del psicoanálisis no es el sueño "puro", sino su relato.* El relato ya está ordenado y filtrado, pero es el material disponible para asociar. *Interpretar un sueño no significa traducirlo con un diccionario simbólico, sino producir asociaciones elemento por elemento.*
 
-## Aparato psiquico
+## Aparato psíquico
 
 *Freud parte del arco reflejo:*
 
@@ -49,8 +49,8 @@ Diagrama del aparato:
 ```mermaid
 flowchart LR
   A["Arco reflejo simple"] --> B["No alcanza para explicar memoria y sueño"]
-  B --> C["Freud agrega huellas mnemicas"]
-  C --> D["Construccion del aparato psiquico"]
+  B --> C["Freud agrega huellas mnémicas"]
+  C --> D["Construcción del aparato psíquico"]
 ```
 
 ## Percepcion y memoria
@@ -79,7 +79,7 @@ El sueño parece percepción porque la excitación vuelve hacia el polo percepti
 
 Regresion en el sueño:
 
-![Esquema del peine durante el dormir, con cierre de la motilidad y regresion al polo perceptivo](peine1.gif)
+![Esquema del peine durante el dormir, con cierre de la motilidad y regresión al polo perceptivo](peine1.gif)
 
 *Durante el dormir se cierra la motilidad y la excitación regresa hacia el polo perceptivo: por eso el sueño tiene carácter alucinatorio.*
 
@@ -129,9 +129,9 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  A["Sueño"] --> B["Acto psiquico de pleno derecho"]
+  A["Sueño"] --> B["Acto psíquico de pleno derecho"]
   B --> C["Prueba de procesos inconcientes"]
-  C --> D["Construccion del aparato psiquico"]
+  C --> D["Construcción del aparato psíquico"]
   D --> E["Percepcion separada de memoria"]
   E --> F["Via progrediente / via regrediente"]
   F --> G["Dormir: se cierra la motilidad"]
@@ -139,3 +139,7 @@ flowchart TD
   H --> I["Caracter alucinatorio del sueño"]
   I --> J["Trabajo del sueño sobre el material latente"]
 ```
+
+Caso guia para ampliar:
+
+- `04-apendices/07-sueno-tres-entradas.md`

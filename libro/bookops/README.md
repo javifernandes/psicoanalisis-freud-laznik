@@ -36,6 +36,11 @@ Material de estudio para Psicoanalisis 1 - Freud, catedra Laznik, Licenciatura e
 
 - `04-apendices/01-investigacion-web.md`
 - `04-apendices/02-material-crudo-guias-y-notas.md`
+- `04-apendices/03-caso-emma.md`
+- `04-apendices/04-caso-elisabeth-von-r.md`
+- `04-apendices/05-caso-signorelli.md`
+- `04-apendices/06-recuerdos-encubridores-y-chistes.md`
+- `04-apendices/07-sueno-tres-entradas.md`
 
 ## Ruta recomendada
 
