@@ -40,12 +40,13 @@ Material de estudio para Psicoanalisis 1 - Freud, catedra Laznik, Licenciatura e
 ### 05. Apendice de casos
 
 - `05-apendice-casos/00-caso-anna-o.md`
-- `05-apendice-casos/01-caso-emma.md`
-- `05-apendice-casos/02-caso-elisabeth-von-r.md`
-- `05-apendice-casos/03-caso-signorelli.md`
-- `05-apendice-casos/04-recuerdos-encubridores.md`
-- `05-apendice-casos/05-chistes.md`
-- `05-apendice-casos/06-sueno-tres-entradas.md`
+- `05-apendice-casos/01-caso-cecilie-m.md`
+- `05-apendice-casos/02-caso-emma.md`
+- `05-apendice-casos/03-caso-elisabeth-von-r.md`
+- `05-apendice-casos/04-caso-signorelli.md`
+- `05-apendice-casos/05-recuerdos-encubridores.md`
+- `05-apendice-casos/06-chistes.md`
+- `05-apendice-casos/07-sueno-tres-entradas.md`
 
 ## Ruta recomendada
 

@@ -4,7 +4,11 @@
 
 Estas respuestas estan pensadas para practicar desarrollo de parcial. No son resumenes exhaustivos: buscan ordenar una tesis, desplegar conceptos precisos y cerrar con una articulacion.
 
-## 1. Aparato psiquico y caracter alucinatorio del sueño
+## 1. Pregunta
+
+*Explique el carácter alucinatorio del sueño a partir de la construcción del aparato psíquico.*
+
+### Respuesta
 
 Freud construye el aparato psiquico en el capitulo VII de La interpretacion de los sueños a partir del modelo del arco reflejo, pero lo transforma. El arco reflejo supone un recorrido simple: estimulo, polo perceptivo, polo motor y descarga. Freud introduce entre percepcion y motilidad sistemas de huellas mnemicas, porque la percepcion y la memoria no pueden pertenecer al mismo sistema: la percepcion recibe estimulos, mientras que la memoria conserva alteraciones permanentes.
 
@@ -14,7 +18,11 @@ En la vigilia, la excitacion tiende a avanzar en direccion progrediente hacia la
 
 Por eso el sueño es prueba del inconciente y no mero fenomeno fisiologico. Su aparente percepcion no viene del mundo exterior, sino de la regresion de la excitacion hacia huellas perceptivas. El sueño realiza alucinatoriamente un deseo porque, cerrado el camino motor, la excitacion vuelve hacia la imagen.
 
-## 2. Trabajo del sueño y tres entradas de teatro
+## 2. Pregunta
+
+*Desarrolle las operaciones del trabajo del sueño y ejemplifique con el sueño de las tres entradas de teatro.*
+
+### Respuesta
 
 El trabajo del sueño es el conjunto de operaciones que transforma pensamientos oniricos latentes en contenido manifiesto. La interpretacion va en sentido inverso: parte del relato del sueño y, por asociacion libre, reconstruye los pensamientos latentes y el deseo inconciente que lo motoriza.
 
@@ -24,7 +32,11 @@ En el sueño de las tres entradas de teatro, los restos diurnos incluyen la noti
 
 El deseo inconciente no debe confundirse con el anhelo manifiesto. En este caso puede articularse con el placer de ver, de caracter sexual infantil. El sueño se forma por la articulacion entre deseo inconciente y restos diurnos, bajo censura y desfiguracion.
 
-## 3. Neuropsicosis de defensa y formacion de sintoma
+## 3. Pregunta
+
+*Explique cómo se forma el síntoma en Las neuropsicosis de defensa.*
+
+### Respuesta
 
 En Las neuropsicosis de defensa, Freud explica la formacion del sintoma a partir de un conflicto psiquico. El punto de partida es una representacion inconciliable para el yo, generalmente vinculada al vivenciar sexual. El yo intenta tratarla como si no hubiera ocurrido, pero esa tarea es imposible. En ese fracaso se pone en marcha la defensa.
 
@@ -34,7 +46,11 @@ Si el monto de afecto se transpone al cuerpo, se produce conversion histerica. E
 
 El sintoma es entonces una formacion sustitutiva: aparece en lugar de la representacion reprimida. Pero tambien es testimonio del fracaso de la defensa, porque aquello que se intento expulsar retorna bajo otra forma. Por eso el sintoma no es arbitrario: esta determinado por el conflicto psiquico y por el destino del monto de afecto.
 
-## 4. Ordenamiento multidimensional y Elisabeth von R.
+## 4. Pregunta
+
+*Explique el ordenamiento multidimensional del material psíquico y articule con Elisabeth von R.*
+
+### Respuesta
 
 En Psicoterapia de la histeria, Freud descubre que el material patogeno no se presenta como una serie simple ni como un cuerpo extraño que pudiera extirparse. Esta organizado de modo multidimensional. Esto significa que el analisis debe recorrer distintos ordenamientos del material psiquico.
 
@@ -44,7 +60,11 @@ El caso Elisabeth von R. permite ejemplificar esta estructura. Su dolor en las p
 
 Por eso el sintoma esta sobredeterminado: varias cadenas asociativas convergen en el mismo punto. En Elisabeth, el conflicto no debe reducirse a un amor por el cuñado. Lo central es la incompatibilidad entre querer amar, ser amada y pensarse como mujer, por un lado, y quedar fijada al lugar de cuidadora del padre, por otro. El cuerpo duele como cuerpo simbolico, tomado por palabras y escenas.
 
-## 5. Emma y temporalidad retroactiva
+## 5. Pregunta
+
+*Explique la temporalidad retroactiva del trauma con el caso Emma.*
+
+### Respuesta
 
 El caso Emma permite pensar el trauma en dos tiempos. Freud muestra que el sintoma no se explica por una vivencia aislada, sino por la articulacion retroactiva entre dos escenas. Emma no puede ir sola a la tienda; ese sintoma se determina por el enlace entre una escena infantil y una escena posterior.
 
@@ -54,7 +74,11 @@ Aqui es fundamental distinguir vivencia y recuerdo. La vivencia infantil no teni
 
 El sintoma surge de la articulacion entre ambas escenas. Hay determinismo porque no es azaroso: los nexos de risa y vestido enlazan las escenas. Y hay compulsion porque el sintoma persiste. Emma muestra que el trauma freudiano no es lineal: el segundo tiempo modifica el valor psiquico del primero.
 
-## 6. Experiencia de satisfaccion y deseo
+## 6. Pregunta
+
+*Explique las consecuencias psíquicas de la experiencia de satisfacción y articule con la naturaleza del deseo.*
+
+### Respuesta
 
 En el punto C del capitulo VII de La interpretacion de los sueños, Freud se pregunta por la naturaleza psiquica del desear. Para responder, introduce la vivencia de satisfaccion. El punto de partida es el apremio de la vida: estimulos internos, como el hambre, que no son momentaneos y de los cuales no se puede huir. El bebe puede llorar, pero el llanto no satisface la necesidad.
 
@@ -64,7 +88,11 @@ Ese movimiento es el deseo. El deseo no es simplemente querer un objeto actual; 
 
 Esta logica permite diferenciar proceso primario y secundario. El proceso primario, propio del Icc, busca identidad de percepcion por via regrediente y opera con energia movil, condensacion y desplazamiento. El proceso secundario, ligado al Prcc/Cc, busca identidad de pensamiento: demora, tantea, soporta displacer y orienta la accion hacia un objeto posible. Asi, el pensamiento aparece como sustituto del deseo alucinatorio.
 
-## 7. Signorelli y recuerdos encubridores
+## 7. Pregunta
+
+*Explique el olvido de nombres propios con el caso Signorelli y articule con la lógica de los recuerdos encubridores.*
+
+### Respuesta
 
 El olvido de nombres propios muestra que ciertas fallas normales de la memoria son formaciones del inconciente. En el caso Signorelli, Freud no solo olvida un nombre: en su lugar aparecen nombres sustitutivos. El olvido no es azaroso ni se debe a un simple desgaste de la memoria, sino que esta motivado por represion.
 
@@ -74,7 +102,11 @@ Los recuerdos encubridores responden a una logica semejante. Un recuerdo aparent
 
 Por eso Freud afirma que los recuerdos infantiles son encubridores: no poseemos una copia fiel de la huella originaria, sino una elaboracion posterior, atravesada por experiencias ulteriores. La memoria es tendenciosa. Tanto Signorelli como los recuerdos encubridores muestran que lo inconciente se hace presente por sustituciones.
 
-## 8. Primera teoría de la angustia
+## 8. Pregunta
+
+*Explique la génesis de la angustia en la primera teoría freudiana y diferencie neurosis actuales de neurosis de defensa.*
+
+### Respuesta
 
 La primera teoría freudiana de la angustia distingue las neurosis de defensa de las neurosis actuales. En las neurosis de defensa, como la histeria y la neurosis obsesiva, hay mecanismo psíquico, representación inconciliable, defensa, recuerdos inconscientes y posibilidad de trabajo analítico. En las neurosis actuales, como la neurastenia y la neurosis de angustia, no está en juego una representación reprimida.
 

@@ -142,4 +142,4 @@ flowchart TD
 
 Caso guia para ampliar:
 
-- [Sueño de las tres entradas de teatro](../05-apendice-casos/06-sueno-tres-entradas.md)
+- [Sueño de las tres entradas de teatro](../05-apendice-casos/07-sueno-tres-entradas.md)

@@ -140,5 +140,5 @@ flowchart LR
 
 Casos guia para ampliar:
 
-- [Caso Emma](../05-apendice-casos/01-caso-emma.md)
-- [Caso Elisabeth von R.](../05-apendice-casos/02-caso-elisabeth-von-r.md)
+- [Caso Emma](../05-apendice-casos/02-caso-emma.md)
+- [Caso Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md)

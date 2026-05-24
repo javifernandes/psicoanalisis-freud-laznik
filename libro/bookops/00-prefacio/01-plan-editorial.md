@@ -78,14 +78,14 @@ Guarda el material de apoyo que no conviene mezclar con la síntesis principal:
 
 Reúne casos y escenas que conviene poder desarrollar con algo más de detalle:
 
-- [Emma](../05-apendice-casos/01-caso-emma.md);
 - [Anna O.](../05-apendice-casos/00-caso-anna-o.md);
-- [Emma](../05-apendice-casos/01-caso-emma.md);
-- [Elisabeth von R.](../05-apendice-casos/02-caso-elisabeth-von-r.md);
-- [Signorelli](../05-apendice-casos/03-caso-signorelli.md);
-- [Recuerdos encubridores](../05-apendice-casos/04-recuerdos-encubridores.md);
-- [Chistes](../05-apendice-casos/05-chistes.md);
-- [Sueño de las tres entradas](../05-apendice-casos/06-sueno-tres-entradas.md).
+- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md);
+- [Emma](../05-apendice-casos/02-caso-emma.md);
+- [Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md);
+- [Signorelli](../05-apendice-casos/04-caso-signorelli.md);
+- [Recuerdos encubridores](../05-apendice-casos/05-recuerdos-encubridores.md);
+- [Chistes](../05-apendice-casos/06-chistes.md);
+- [Sueño de las tres entradas](../05-apendice-casos/07-sueno-tres-entradas.md).
 
 ## Criterio de lectura
 

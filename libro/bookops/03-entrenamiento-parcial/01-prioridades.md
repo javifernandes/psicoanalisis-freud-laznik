@@ -15,7 +15,7 @@ Cruce entre:
 
 Por que importa:
 
-- Aparece de forma recurrente en examenes 2011, 2021, 2022 y 2025.
+- Aparece de forma recurrente en examenes [2011](https://www.clasesatodahora.com.ar/examenes/uba/psicologia/psicofreud/psicofreud2011p1laza.pdf), [2021](https://www.altillo.com/examenes/uba/psicologia/psicofreud/psicofreud_1ps_laz_2021.asp), [2022](https://www.altillo.com/examenes/uba/psicologia/psicofreud/psicofreud_1pe_laz_2022.asp) y [2025](https://www.altillo.com/examenes/uba/psicologia/psicofreud/psicofreud_1pa_laz_2025.asp).
 - Puede formularse como aparato vs arco reflejo, percepcion/memoria, regresion o caracter alucinatorio.
 
 Hay que dominar:
@@ -29,7 +29,7 @@ Hay que dominar:
 - Cierre de motilidad.
 - Atraccion de huellas cercanas a percepcion.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique el caracter alucinatorio del sueño a partir de la construccion del aparato psiquico."
 
@@ -51,7 +51,7 @@ Hay que dominar:
 - Restos diurnos.
 - Tres entradas de teatro.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Desarrolle las operaciones del trabajo del sueño y ejemplifique con el sueño de las tres entradas."
 
@@ -72,7 +72,7 @@ Hay que dominar:
 - Grupo psiquico segundo.
 - Sintoma como formacion sustitutiva y compromiso.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique como se genera el sintoma en Las neuropsicosis de defensa."
 
@@ -93,7 +93,7 @@ Hay que dominar:
 - Sobredeterminacion.
 - Series de Elisabeth: padre, hermana, estar de pie, caminar, soledad.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique el ordenamiento multidimensional del material psiquico y articule con Elisabeth von R."
 
@@ -114,7 +114,7 @@ Hay que dominar:
 - Formula canonica.
 - Eficacia postuma.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique la temporalidad retroactiva del trauma con el caso Emma."
 
@@ -137,7 +137,7 @@ Hay que dominar:
 - Recuerdos infantiles como elaboraciones posteriores.
 - Signorelli: olvido + nombres sustitutivos.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique el olvido de nombres propios con el caso Signorelli."
 - "Fundamente que todo recuerdo infantil es encubridor."
@@ -159,7 +159,7 @@ Hay que dominar:
 - Proceso primario/secundario.
 - Pensamiento como sustituto del deseo alucinatorio.
 
-Respuesta modelo pendiente:
+Pregunta modelo:
 
 - "Explique las consecuencias psiquicas de la experiencia de satisfaccion."
 
@@ -215,22 +215,3 @@ Hay que dominar:
 - Prcc.
 - Transcripcion.
 - Denegacion de traduccion.
-
-## Orden sugerido de produccion del libro
-
-1. Banco de respuestas modelo para 8 preguntas nucleares.
-2. Cuadros comparativos definitivos.
-3. Diagramas visuales: arco reflejo, peine, Emma, Elisabeth, vivencia de satisfaccion.
-4. Fichas de ejemplos clinicos y ejemplos de formaciones del inconciente.
-5. Simulacro de parcial con 4 preguntas.
-
-## Ocho respuestas modelo a escribir primero
-
-1. Aparato psiquico y caracter alucinatorio del sueño.
-2. Trabajo del sueño con tres entradas de teatro.
-3. Neuropsicosis de defensa y formacion de sintoma.
-4. Ordenamiento multidimensional con Elisabeth.
-5. Emma y temporalidad retroactiva.
-6. Experiencia de satisfaccion y deseo.
-7. Signorelli o recuerdos encubridores.
-8. Primera teoría de la angustia.

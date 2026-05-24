@@ -11,6 +11,7 @@ Ejes:
 - Punto de apoyo en Charcot.
 - Diferencia entre trauma fisico y trauma psiquico.
 - [Anna O.](../05-apendice-casos/00-caso-anna-o.md) y vivencias teñidas de afecto.
+- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md) y el síntoma corporal “como una bofetada en la cara”.
 - Principio de constancia.
 - Afecto no abreaccionado.
 - Sintoma como cuerpo que habla.
@@ -23,7 +24,7 @@ Cuadro minimo:
 | Accidente y peligro corporal | Vivencia con afecto no tramitado |
 | Hipnosis reproduce sintomas | Hipnosis recupera recuerdos |
 
-Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
+Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md), [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md)
 
 ## 2. Psicoterapia de la histeria
 

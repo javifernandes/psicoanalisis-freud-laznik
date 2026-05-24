@@ -56,6 +56,8 @@ flowchart LR
 
 *La \concept{abreacción} es la descarga adecuada de ese afecto.* Puede ocurrir por una reacción motriz, por la palabra o por un procesamiento asociativo. Cuando esa descarga no ocurre, el recuerdo conserva una intensidad anormal. En ese sentido, *el síntoma histérico aparece como una solución fallida*: algo que no pudo tramitarse psíquicamente encuentra otra vía.
 
+Ver también: [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md)
+
 ## Trauma psiquico
 
 *El \concept{trauma psíquico} no es simplemente un acontecimiento externo.* Es una vivencia que conserva afecto y que, por no haber sido \concept{abreaccionada}, sigue actuando. Por eso Freud puede decir que en la histeria común no hay necesariamente un único gran trauma, sino *una historia de padecimiento*.
@@ -110,3 +112,9 @@ flowchart LR
   G --> H["Giro freudiano"]
   H --> I["Conflicto / defensa / resistencia / retroaccion"]
 ```
+
+## Casos emblemáticos de este tramo
+
+- [Anna O.](../05-apendice-casos/00-caso-anna-o.md): historia de padecimiento, hipnosis, abreacción y método catártico.
+- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md): referencia simbólica del síntoma y cuerpo que habla.
+- [Emma](../05-apendice-casos/02-caso-emma.md): trauma en dos tiempos y eficacia póstuma del recuerdo.
