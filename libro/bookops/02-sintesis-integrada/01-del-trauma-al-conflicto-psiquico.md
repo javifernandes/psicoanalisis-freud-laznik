@@ -30,7 +30,7 @@ flowchart LR
 
 - **Anna O.**
 - Hipnosis para recuperar recuerdos.
-- **Vivencias tenidas de afecto.**
+- **Vivencias teñidas de afecto.**
 - Afecto que no se desgasto con el tiempo.
 - Historia de padecimiento, no un único episodio.
 - **Método catártico: \concept{abreacción}.**
@@ -45,7 +45,7 @@ Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
 flowchart LR
   A["Anna O."] --> B["Hipnosis"]
   B --> C["Recuperacion de recuerdos"]
-  C --> D["Vivencias tenidas de afecto"]
+  C --> D["Vivencias teñidas de afecto"]
   D --> E["Abreaccion"]
   E --> F["Cede el sintoma"]
 ```

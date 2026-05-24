@@ -4,7 +4,7 @@
 
 - Pasaje de la histeria traumática de Charcot a la histeria común de Breuer/Freud.
 - Método catártico.
-- Vivencias tenidas de afecto.
+- Vivencias teñidas de afecto.
 - Síntoma como texto a descifrar.
 - Límite de una cura síntoma por síntoma.
 
@@ -98,7 +98,7 @@ La tesis fuerte es esta: *el histérico padece de reminiscencias*. El síntoma t
 |---|---|
 | Tipo de histeria | Histeria común, no solo gran trauma físico |
 | Método | Hipnosis y catarsis |
-| Núcleo | Vivencias tenidas de afecto |
+| Núcleo | Vivencias teñidas de afecto |
 | Fórmula clínica | Recuerdo + afecto retenido + síntoma |
 | Alcance | El síntoma cede al recordar y abreaccionar |
 | Límite | No basta para pensar toda la histeria ni la resistencia |

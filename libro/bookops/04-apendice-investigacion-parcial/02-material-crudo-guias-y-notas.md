@@ -74,7 +74,7 @@ Cuadro Charcot / Breuer-Freud / Freud:
 | Eje | Charcot | Breuer + Freud | Freud solo |
 |---|---|---|---|
 | Objeto | Histeria traumatica | Histeria comun, Anna O. | Histeria de defensa |
-| Trauma | Accidente, gran trauma, peligro corporal | Vivencias tenidas de afecto | Conflicto psiquico, defensa, nucleo patogeno |
+| Trauma | Accidente, gran trauma, peligro corporal | Vivencias teñidas de afecto | Conflicto psiquico, defensa, nucleo patogeno |
 | Causa del sintoma | No es el golpe mismo, sino la representacion asociada | Recuerdo no abreaccionado | Representacion inconciliable y resistencia |
 | Metodo | Hipnosis para reproducir o suprimir sintomas | Hipnosis / catarsis | Presion en la frente, trabajo contra resistencias |
 | Limite | No explica sintomas no corporales ni histeria comun | Cura sintomas, no la histeria como tal | Descubre resistencia y sobredeterminacion |
@@ -93,7 +93,7 @@ Anna O. y trauma psiquico:
 - El paciente no recuerda: aparece el olvido.
 - La hipnosis permite recuperar escenas olvidadas.
 - Al recuperar el recuerdo, el sintoma puede cesar.
-- Se accede a vivencias tenidas de afecto, cuya intensidad no se desgasto con el tiempo.
+- Se accede a vivencias teñidas de afecto, cuya intensidad no se desgasto con el tiempo.
 - En la histeria comun no hay un unico episodio, sino una historia de padecimiento: muchos episodios enlazados.
 
 Primera tesis fuerte:

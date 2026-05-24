@@ -10,7 +10,7 @@ Ejes:
 
 - Punto de apoyo en Charcot.
 - Diferencia entre trauma fisico y trauma psiquico.
-- [Anna O.](../05-apendice-casos/00-caso-anna-o.md) y vivencias tenidas de afecto.
+- [Anna O.](../05-apendice-casos/00-caso-anna-o.md) y vivencias teñidas de afecto.
 - Principio de constancia.
 - Afecto no abreaccionado.
 - Sintoma como cuerpo que habla.
