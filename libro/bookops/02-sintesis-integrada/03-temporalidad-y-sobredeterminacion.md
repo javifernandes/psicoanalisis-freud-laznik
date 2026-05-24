@@ -1,29 +1,41 @@
-# Temporalidad y sobredeterminacion
+# Temporalidad y sobredeterminación
 
 ## Problema
 
-El sintoma freudiano no se explica por una causa unica ni por una temporalidad lineal.
+*El síntoma freudiano no se explica por una causa única ni por una temporalidad lineal.*
 
-Este capitulo junta dos problemas que la catedra remarca: por un lado, el trauma en dos tiempos; por otro, la sobredeterminacion del sintoma. Ambos rompen con una causalidad simple. Un sintoma no se explica por "un hecho" ni por una secuencia cronologica directa.
+Este capítulo junta dos problemas que la cátedra remarca: **por un lado, el trauma en dos tiempos; por otro, la \concept{sobredeterminación} del síntoma**. Ambos rompen con una causalidad simple. **Un síntoma no se explica por "un hecho" ni por una secuencia cronológica directa.**
 
 ## Emma
 
-Emma muestra el trauma en dos tiempos:
+*Emma muestra el trauma en dos tiempos:*
 
 1. Una escena infantil ligada a sexualidad, risa y vestido.
 2. Una escena posterior que despierta el recuerdo.
 
-La vivencia inicial no produce todo su efecto en el momento. El recuerdo, luego de la pubertad, desprende displacer. Por eso hay eficacia postuma.
+La vivencia inicial no produce todo su efecto en el momento. *El recuerdo, luego de la pubertad, desprende displacer. Por eso hay \concept{eficacia póstuma}.*
 
-El punto decisivo es que el trauma no esta completo en el primer tiempo. La escena infantil solo se vuelve traumatica cuando una escena posterior la despierta y la resignifica. La pubertad introduce una nueva posibilidad de desprendimiento sexual, y entonces el recuerdo produce un afecto que la vivencia no habia producido en su momento.
+**El punto decisivo es que el trauma no está completo en el primer tiempo.** La escena infantil solo se vuelve traumática cuando una escena posterior la despierta y la resignifica. La pubertad introduce una nueva posibilidad de desprendimiento sexual, y entonces el recuerdo produce un afecto que la vivencia no había producido en su momento.
+
+### Checkpoint: Emma
+
+```mermaid
+flowchart LR
+  A["Escena infantil"] --> B["Queda inscripta"]
+  B --> C["No traumatiza plenamente en el momento"]
+  D["Escena posterior"] --> E["Despierta el recuerdo"]
+  B --> E
+  E --> F["Displacer a posteriori"]
+  F --> G["Defensa / sintoma"]
+```
 
 ## Vivencia y recuerdo
 
 | Vivencia | Recuerdo |
 |---|---|
 | Acontecimiento vivido | Reinscripcion psiquica |
-| Puede no ser traumatica en el momento | Puede producir efecto a posteriori |
-| Cronologica | Logica y retroactiva |
+| Puede no ser traumática en el momento | Puede producir efecto a posteriori |
+| Cronológica | Lógica y retroactiva |
 
 Formula:
 
@@ -36,7 +48,7 @@ flowchart LR
   E --> F["Defensa / sintoma"]
 ```
 
-Esto permite entender por que el sintoma de Emma no deriva de una escena sola. La eficacia esta en el encadenamiento.
+Esto permite entender por qué el síntoma de Emma no deriva de una escena sola. **La eficacia está en el encadenamiento.**
 
 Diagrama de Emma:
 
@@ -53,7 +65,7 @@ flowchart LR
 
 ## Elisabeth von R.
 
-Elisabeth muestra sobredeterminacion:
+*Elisabeth muestra \concept{sobredeterminación}:*
 
 - dolor de piernas;
 - cuidado del padre;
@@ -62,7 +74,7 @@ Elisabeth muestra sobredeterminacion:
 - deseo de vida amorosa propia;
 - lugar de cuidadora.
 
-El sintoma condensa varias cadenas. No es cuerpo extraño, esta infiltrado en la trama psiquica.
+**El síntoma condensa varias cadenas.** No es cuerpo extraño, está infiltrado en la trama psíquica.
 
 Diagrama de Elisabeth:
 
@@ -79,26 +91,49 @@ flowchart TD
   F --> G["Conflicto psiquico"]
 ```
 
-En Elisabeth, el dolor de piernas no se explica por una unica escena. Freud va siguiendo series asociativas: el cuidado del padre, la muerte de la hermana, escenas de estar de pie, caminar, quedarse sola. Cada serie aporta un sentido parcial. El sintoma es un punto de convergencia.
+En Elisabeth, **el dolor de piernas no se explica por una única escena**. Freud va siguiendo series asociativas: el cuidado del padre, la muerte de la hermana, escenas de estar de pie, caminar, quedarse sola. Cada serie aporta un sentido parcial. **El síntoma es un punto de convergencia.**
+
+### Checkpoint: Elisabeth
+
+```mermaid
+flowchart LR
+  A["Series asociativas multiples"] --> B["Puntos nodales"]
+  B --> C["Conflicto psiquico"]
+  C --> D["Sintoma sobredeterminado"]
+```
 
 ## Ordenamientos
 
 | Ordenamiento | Funcion |
 |---|---|
-| Lineal cronologico | Organiza recuerdos dentro de un tema |
-| Concentrico | Ubica estratos de resistencia alrededor del nucleo patogeno |
-| Por contenido de pensamiento | Sigue hilos logicos y puntos nodales |
+| Lineal cronológico | Organiza recuerdos dentro de un tema |
+| Concéntrico | Ubica estratos de resistencia alrededor del núcleo patógeno |
+| Por contenido de pensamiento | Sigue hilos lógicos y puntos nodales |
 
-La sobredeterminacion se ve especialmente en el tercer ordenamiento. El analisis no avanza como una linea recta, sino por cadenas que se cruzan.
+**La \concept{sobredeterminación} se ve especialmente en el tercer ordenamiento.** El análisis no avanza como una línea recta, sino **por cadenas que se cruzan**.
 
 ## Formula
 
-El sintoma tiene determinacion multiple: varias cadenas asociativas convergen en puntos nodales.
+*El síntoma tiene determinación múltiple: varias cadenas asociativas convergen en puntos nodales.*
 
 ## Diferencia util
 
 | Emma | Elisabeth |
 |---|---|
-| Sirve para pensar dos tiempos y retroaccion | Sirve para pensar sobredeterminacion y ordenamientos |
+| Sirve para pensar dos tiempos y retroacción | Sirve para pensar sobredeterminación y ordenamientos |
 | Nexo entre escenas | Nexo entre series asociativas |
-| Recuerdo cobra eficacia postuma | Sintoma condensa varios sentidos |
+| Recuerdo cobra eficacia póstuma | Síntoma condensa varios sentidos |
+
+## Diagrama integrador
+
+```mermaid
+flowchart LR
+  A["Emma"] --> B["Trauma en dos tiempos"]
+  B --> C["Retroaccion"]
+  C --> D["Recuerdo que cobra eficacia postuma"]
+  D --> E["Sintoma"]
+  F["Elisabeth"] --> G["Series asociativas multiples"]
+  G --> H["Puntos nodales"]
+  H --> I["Sobredeterminacion"]
+  I --> E
+```
