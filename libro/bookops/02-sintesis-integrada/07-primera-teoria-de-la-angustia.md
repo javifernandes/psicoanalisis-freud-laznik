@@ -1,67 +1,97 @@
-# Primera teoria de la angustia
+# Primera teoría de la angustia
 
 ## Problema
 
-La primera teoria de la angustia distingue neurosis de defensa y neurosis actuales.
+*La primera teoría de la angustia distingue neurosis de defensa y neurosis actuales.*
 
-Esta distincion evita un error frecuente: no toda neurosis del primer Freud se explica por defensa, recuerdo inconciente y represion. Las neurosis actuales quedan en otro registro. Alli no se trata de descifrar una representacion reprimida, sino de una acumulacion actual de excitacion sexual somatica.
+**Esta distinción evita un error frecuente:** no toda neurosis del primer Freud se explica por defensa, recuerdo inconciente y represión. Las neurosis actuales quedan en otro registro. Allí **no se trata de descifrar una representación reprimida**, sino de **una acumulación actual de excitación sexual somática**.
 
 ## Neurosis de defensa
 
 Incluyen histeria y neurosis obsesiva.
 
-Hay:
+*Hay:*
 
-- mecanismo psiquico;
-- representacion;
+- mecanismo psíquico;
+- representación;
 - defensa;
 - recuerdos inconcientes;
-- posibilidad de interpretacion.
+- posibilidad de interpretación.
 
-En estas neurosis, el psicoanalisis puede operar porque hay representaciones, asociaciones y recuerdos. El sintoma puede leerse como sustituto y como retorno.
+En estas neurosis, **el psicoanálisis puede operar** porque hay representaciones, asociaciones y recuerdos. **El síntoma puede leerse como sustituto y como retorno.**
+
+### Checkpoint: neurosis de defensa
+
+```mermaid
+flowchart LR
+  A["Representacion"] --> B["Defensa"]
+  B --> C["Recuerdo inconciente"]
+  C --> D["Sintoma interpretable"]
+```
 
 ## Neurosis actuales
 
 Incluyen neurastenia y neurosis de angustia.
 
-No hay:
+*No hay:*
 
-- representacion reprimida;
-- mecanismo psiquico en el mismo sentido;
+- representación reprimida;
+- mecanismo psíquico en el mismo sentido;
 - dos tiempos;
-- represion como en la histeria.
+- represión como en la histeria.
 
-En las neurosis actuales, Freud ubica una falla actual de tramitacion. La causa es sexual, pero no por una escena reprimida que deba reconstruirse. La tension se acumula porque no logra ligarse psiquicamente.
+En las neurosis actuales, Freud ubica **una falla actual de tramitación**. La causa es sexual, pero no por una escena reprimida que deba reconstruirse. **La tensión se acumula porque no logra ligarse psíquicamente.**
+
+### Checkpoint: neurosis actuales
+
+```mermaid
+flowchart LR
+  A["Tension sexual somatica"] --> B["No logra ligadura psiquica"]
+  B --> C["Se acumula en la actualidad"]
+  C --> D["Angustia"]
+```
 
 ## Angustia
 
-La angustia surge por acumulacion de tension sexual somatica que no logra ligadura psiquica. Es afecto sin representacion.
+*La \concept{angustia} surge por acumulación de tensión sexual somática que no logra ligadura psíquica.* Es *afecto sin representación.*
 
-La tension deberia alcanzar un umbral y enlazarse con una representacion sexual o fantasia. Si eso no ocurre, no se tramita psiquicamente y se muda en angustia. Por eso esta angustia no se reduce por interpretacion como un sintoma histerico.
+La tensión debería alcanzar un umbral y enlazarse con una representación sexual o fantasía. Si eso no ocurre, **no se tramita psíquicamente y se muda en angustia**. Por eso esta angustia **no se reduce por interpretación** como un síntoma histérico.
 
 ## Cuerpo
 
 | Histeria | Angustia |
 |---|---|
-| Cuerpo simbolico | Cuerpo somatico |
-| Conversion | Transposicion de tension |
-| Hay mensaje a descifrar | No hay representacion a interpretar |
+| Cuerpo simbólico | Cuerpo somático |
+| Conversión | Transposición de tensión |
+| Hay mensaje a descifrar | No hay representación a interpretar |
 
 ## Formula
 
-En la histeria, el cuerpo habla. En la angustia, el cuerpo descarga una tension no ligada.
+*En la histeria, el cuerpo habla. En la angustia, el cuerpo descarga una tensión no ligada.*
 
 ## Cuadro de parcial
 
 | Eje | Neurosis de defensa | Neurosis actuales |
 |---|---|---|
-| Representacion | Si | No como representacion reprimida |
+| Representación | Si | No como representación reprimida |
 | Recuerdo inconciente | Si | No |
 | Dos tiempos | Puede haber | No |
-| Represion | Central | No central |
+| Represión | Central | No central |
 | Tratamiento freudiano inicial | Opera por asociaciones | No opera igual |
-| Causa | Conflicto psiquico | Acumulacion actual |
+| Causa | Conflicto psíquico | Acumulación actual |
 
 ## Advertencia
 
-Si la consigna pregunta por primera teoria de la angustia, no responder con trauma en dos tiempos ni con retorno de lo reprimido. La clave es tension sexual somatica no ligada psiquicamente.
+Si la consigna pregunta por primera teoría de la angustia, **no responder con trauma en dos tiempos ni con retorno de lo reprimido**. **La clave es tensión sexual somática no ligada psíquicamente.**
+
+## Diagrama integrador
+
+```mermaid
+flowchart LR
+  A["Neurosis de defensa"] --> B["Representacion / defensa / recuerdo"]
+  B --> C["Sintoma interpretable"]
+  D["Neurosis actuales"] --> E["Tension sexual somatica"]
+  E --> F["No hay ligadura psiquica suficiente"]
+  F --> G["Angustia"]
+  C -. "no confundir con" .-> G
+```

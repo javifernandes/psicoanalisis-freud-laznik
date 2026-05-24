@@ -2,15 +2,15 @@
 
 ## Problema
 
-Freud extiende la logica del inconciente a fenomenos normales: sueños, chistes, lapsus, olvidos, errores y recuerdos encubridores.
+**Freud extiende la lógica del inconciente a fenómenos normales:** sueños, chistes, lapsus, olvidos, errores y recuerdos encubridores.
 
-Este movimiento es enorme. Lo inconciente ya no aparece solo en la enfermedad. Tambien aparece en la vida cotidiana. Las fallas, rarezas y ocurrencias normales muestran que la conciencia no gobierna todo el psiquismo.
+**Este movimiento es enorme.** Lo inconciente ya no aparece solo en la enfermedad. También aparece en la vida cotidiana. **Las fallas, rarezas y ocurrencias normales muestran que la conciencia no gobierna todo el psiquismo.**
 
 ## Idea central
 
-Estos fenomenos tienen sentido. No son simples fallas ni azar: son sustituciones, desplazamientos y compromisos.
+*Estos fenómenos tienen sentido.* No son simples fallas ni azar: *son sustituciones, desplazamientos y compromisos.*
 
-La clave es que no se interpretan por una voluntad conciente. El sujeto puede querer recordar un nombre y no poder; puede conservar un recuerdo infantil aparentemente indiferente; puede hacer un chiste sin saber del todo por que produce efecto. En todos esos casos, algo se dice desplazado.
+La clave es que **no se interpretan por una voluntad conciente**. El sujeto puede querer recordar un nombre y no poder; puede conservar un recuerdo infantil aparentemente indiferente; puede hacer un chiste sin saber del todo por qué produce efecto. **En todos esos casos, algo se dice desplazado.**
 
 ## Recuerdos encubridores
 
@@ -19,27 +19,46 @@ La clave es que no se interpretan por una voluntad conciente. El sujeto puede qu
 - Recuerdo indiferente que sustituye a uno significativo.
 - Los recuerdos infantiles son elaboraciones posteriores.
 
-El recuerdo encubridor conserva algo porque encubre otra cosa. Su valor no esta en el contenido manifiesto, sino en el enlace con un recuerdo significativo que no aparece directamente. El desplazamiento mueve el acento psiquico hacia un elemento indiferente.
+*El \concept{recuerdo encubridor} conserva algo porque encubre otra cosa.* Su valor no está en el contenido manifiesto, sino en el enlace con un recuerdo significativo que no aparece directamente. *El \concept{desplazamiento} mueve el acento psíquico hacia un elemento indiferente.*
 
-Por eso Freud sostiene que los recuerdos infantiles no son copia fiel de la infancia. Son elaboraciones posteriores. Muchas veces nos vemos en la escena desde afuera, como si la memoria fuese una imagen armada despues.
+Por eso Freud sostiene que **los recuerdos infantiles no son copia fiel de la infancia**. Son elaboraciones posteriores. Muchas veces nos vemos en la escena desde afuera, como si la memoria fuese una imagen armada después.
+
+### Checkpoint: recuerdo encubridor
+
+```mermaid
+flowchart LR
+  A["Recuerdo significativo"] --> B["Desplazamiento"]
+  B --> C["Recuerdo aparentemente indiferente"]
+  C --> D["Encubre y conserva algo a la vez"]
+```
 
 ## Signorelli
 
 - Olvido de nombre propio.
 - Nombres sustitutivos.
-- Puentes linguisticos.
-- Asociaciones extrinsecas.
-- Formacion de compromiso.
+- Puentes lingüísticos.
+- Asociaciones extrínsecas.
+- Formación de compromiso.
 
-El olvido de Signorelli muestra que la memoria no falla de cualquier manera. El nombre olvidado queda arrastrado por una cadena asociativa ligada a temas reprimidos. Los nombres sustitutivos no son azarosos: conservan restos foneticos o linguisticos del nombre buscado y del tema reprimido.
+**El olvido de Signorelli muestra que la memoria no falla de cualquier manera.** El nombre olvidado queda arrastrado por una cadena asociativa ligada a temas reprimidos. **Los nombres sustitutivos no son azarosos:** conservan restos fonéticos o lingüísticos del nombre buscado y del tema reprimido.
 
-Asociacion extrinseca significa que el enlace puede no depender del sentido principal. Puede apoyarse en sonidos, fragmentos, traducciones, nombres o detalles laterales.
+*\concept{Asociación extrínseca}* significa que el enlace puede no depender del sentido principal. Puede apoyarse en sonidos, fragmentos, traducciones, nombres o detalles laterales.
+
+### Checkpoint: Signorelli
+
+```mermaid
+flowchart LR
+  A["Nombre buscado"] --> B["Tema reprimido"]
+  B --> C["Puentes linguisticos"]
+  C --> D["Nombres sustitutivos"]
+  D --> E["Olvido con sentido"]
+```
 
 ## Chiste
 
 Mecanismos principales:
 
-- condensacion;
+- \concept{condensación};
 - desplazamiento;
 - doble sentido;
 - literalidad.
@@ -50,7 +69,7 @@ Ejemplos:
 - becerro de oro;
 - baño del judio.
 
-En el chiste famillionario, dos cadenas verbales se condensan en una palabra mixta. En el chiste del baño, el efecto depende de una literalizacion y un desplazamiento. El chiste muestra que el inconciente trabaja con palabras, sonidos y desplazamientos de acento.
+En el chiste famillionario, **dos cadenas verbales se condensan en una palabra mixta**. En el chiste del baño, el efecto depende de una literalización y un desplazamiento. **El chiste muestra que el inconciente trabaja con palabras, sonidos y desplazamientos de acento.**
 
 ## Comparacion
 
@@ -64,4 +83,20 @@ En el chiste famillionario, dos cadenas verbales se condensan en una palabra mix
 
 ## Puente con el sueño
 
-Las formaciones del inconciente preparan el camino para entender el sueño. En todas hay sustitucion, desplazamiento y sentido. El sueño sera la via privilegiada porque permite ver con mas claridad las operaciones del inconciente.
+**Las formaciones del inconciente preparan el camino para entender el sueño.** En todas hay sustitución, desplazamiento y sentido. **El sueño será la vía privilegiada** porque permite ver con más claridad las operaciones del inconciente.
+
+## Diagrama integrador
+
+```mermaid
+flowchart TD
+  A["Formaciones del inconciente"] --> B["Recuerdo encubridor"]
+  A --> C["Olvido de Signorelli"]
+  A --> D["Chiste"]
+  A --> E["Sueño"]
+  A --> F["Sintoma"]
+  B --> G["Desplazamiento"]
+  C --> H["Sustitucion / puentes linguisticos"]
+  D --> I["Condensacion / desplazamiento"]
+  E --> J["Trabajo del sueño"]
+  F --> K["Compromiso / retorno"]
+```
