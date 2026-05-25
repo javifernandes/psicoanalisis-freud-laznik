@@ -31,11 +31,15 @@ flowchart LR
 - **Anna O.**
 - Hipnosis para recuperar recuerdos.
 - **Vivencias teñidas de afecto.**
+- **\concept{Recuerdo patógeno}.**
 - Afecto que no se desgasto con el tiempo.
 - Historia de padecimiento, no un único episodio.
 - **Método catártico: \concept{abreacción}.**
+- **\concept{Fuerza traumática}** e **\concept{idoneidad determinadora}**.
 
 Con Anna O. aparece otra escena: **no se trata solo de un golpe**, sino de síntomas ligados a historias, palabras, recuerdos y afectos. La hipnosis permite recuperar escenas olvidadas. Cuando el recuerdo aparece y el afecto se descarga, el síntoma puede ceder. **Este es el núcleo del método catártico.**
+
+En este momento, Freud y Breuer empiezan a pensar el **\concept{recuerdo patógeno}** como una vivencia que, por no haber sido descargada, **permanece eficaz**. No cualquier escena deviene causal del síntoma del mismo modo: importa tanto su **\concept{fuerza traumática}** como su **\concept{idoneidad determinadora}**, es decir, su aptitud para enlazarse con un síntoma preciso.
 
 Ver también: [Caso Anna O.](../03-apendice-casos/00-caso-anna-o.md)
 
@@ -61,6 +65,8 @@ Ver también: [Caso Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md)
 ## Trauma psiquico
 
 *El \concept{trauma psíquico} no es simplemente un acontecimiento externo.* Es una vivencia que conserva afecto y que, por no haber sido \concept{abreaccionada}, sigue actuando. Por eso Freud puede decir que en la histeria común no hay necesariamente un único gran trauma, sino *una historia de padecimiento*.
+
+Eso permite distinguir entre **la vivencia** y **el recuerdo que sigue operando**. En este tramo, el acento no está todavía en los dos tiempos, sino en el hecho de que un **\concept{recuerdo patógeno}** conserva afecto y prolonga su eficacia en el tiempo.
 
 Formula:
 
