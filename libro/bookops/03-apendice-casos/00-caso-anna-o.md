@@ -8,6 +8,17 @@
 - Síntoma como texto a descifrar.
 - Límite de una cura síntoma por síntoma.
 
+## Historia familiar y escenas iniciales
+
+- Anna O. es una joven muy inteligente, muy ligada a su padre y situada durante meses en el lugar de cuidadora.
+- En 1880 el padre cae gravemente enfermo y ella queda absorbida por la vigilia, el cansancio y la preocupación.
+- En ese período aparecen somnolencias, estados de ausencia y una escisión entre un funcionamiento diurno perturbado y otro nocturno más lúcido.
+- Junto al lecho del padre tiene la escena de la serpiente: el brazo derecho dormido, imposibilidad de moverlo, terror, oración y pasaje forzado al inglés.
+- Tras la muerte del padre, en abril de 1881, el cuadro se intensifica.
+- El tratamiento va reconduciendo síntoma por síntoma a una escena o serie de escenas.
+- La hidrofobia se aclara cuando recuerda con asco haber visto a un perro beber de un vaso.
+- El caso queda ordenado, entonces, por esta secuencia: **cuidado del padre, escenas intensas, síntomas, recuperación del recuerdo, abreacción**.
+
 ## Raconto mínimo
 
 Anna O. aparece en *Estudios sobre la histeria* como el gran caso emblema de Breuer. Lo decisivo no es un accidente corporal único, sino **una historia de padecimiento** ligada al cuidado de su padre enfermo, estados de ausencia, escenas intensas y afectos que no encontraron tramitación.
@@ -38,7 +49,28 @@ El cuidado del padre enfermo organiza el trasfondo del caso. Allí se concentran
 
 Ese fondo muestra que la histeria común no se explica por un gran choque físico, sino por una trama de vivencias con afecto.
 
-### 2. Hidrofobia
+### 1 bis. Estados de ausencia y "clouds"
+
+El caso no se ordena solo por escenas aisladas, sino también por un modo de funcionamiento:
+
+- a la tarde aparecen somnolencias y ausencias;
+- al anochecer entra en un estado más profundo, al que llama *clouds*;
+- si en ese estado puede narrar las escenas o alucinaciones del día, despierta más tranquila y clara.
+
+Esto es importante porque muestra una forma temprana de escisión psíquica: no hay una conciencia unificada, sino estados relativamente separados.
+
+### 2. La escena de la serpiente
+
+Durante una vigilia junto al padre tiene una alucinación: ve una serpiente acercarse a la cama. El brazo derecho, apoyado y dormido, queda paretico y anestesiado. Intenta rezar, pero no puede hacerlo en alemán; termina encontrando palabras solo en inglés.
+
+La escena concentra varias marcas decisivas:
+
+- terror;
+- parálisis del brazo;
+- irrupción de una lengua extraña;
+- formación simultánea de varios síntomas.
+
+### 3. Hidrofobia
 
 Uno de los episodios más conocidos es el de la imposibilidad de beber agua. Bajo hipnosis, emerge una escena en la que algo visto con asco y retenido sin descarga queda enlazado al síntoma. Cuando la escena se recuerda y se tramita, el síntoma cede.
 
@@ -51,7 +83,7 @@ Este ejemplo es muy útil para el parcial porque deja ver de forma casi escolar:
 - abreacción;
 - desaparición del síntoma.
 
-### 3. Lenguaje y escisión
+### 4. Lenguaje y escisión
 
 En Anna O. también hay trastornos del habla y momentos en que solo puede hablar en otra lengua. Lo importante ahí no es el color pintoresco del caso, sino que el síntoma ya no parece solo corporal: **el lenguaje mismo entra en la lógica histérica**.
 
@@ -89,6 +121,15 @@ flowchart TD
 - Conserva la intensidad de una vivencia no tramitada.
 - La hipnosis permite recuperar la escena olvidada.
 - La palabra puede operar como vía de descarga.
+
+En Anna O. conviene además poder decir la secuencia de trabajo casi como una fórmula clínica:
+
+1. escena intensa;
+2. afecto no tramitado;
+3. síntoma;
+4. recuerdo recuperado bajo hipnosis;
+5. abreacción;
+6. desaparición puntual del síntoma.
 
 La tesis fuerte es esta: *el histérico padece de reminiscencias*. El síntoma testimonia una escena que no fue suficientemente tramitada y que sigue actuando.
 
