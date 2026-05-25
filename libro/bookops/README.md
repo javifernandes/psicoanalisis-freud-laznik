@@ -17,6 +17,7 @@ Material de estudio para Psicoanalisis 1 - Freud, catedra Laznik, Licenciatura e
 
 ### 02. Sintesis integrada
 
+- `02-sintesis-integrada/00-linea-temporal-del-primer-freud.md`
 - `02-sintesis-integrada/01-del-trauma-al-conflicto-psiquico.md`
 - `02-sintesis-integrada/02-defensa-sintoma-y-retorno.md`
 - `02-sintesis-integrada/03-temporalidad-y-sobredeterminacion.md`

@@ -8,7 +8,7 @@
 
 ## Idea central
 
-*Estos fenómenos tienen sentido.* No son simples fallas ni azar: *son sustituciones, desplazamientos y compromisos.*
+*Estos fenómenos tienen sentido.* No son simples fallas ni azar: *son sustituciones, desplazamientos y \concept{formaciones de compromiso}.*
 
 La clave es que **no se interpretan por una voluntad conciente**. El sujeto puede querer recordar un nombre y no poder; puede conservar un recuerdo infantil aparentemente indiferente; puede hacer un chiste sin saber del todo por qué produce efecto. **En todos esos casos, algo se dice desplazado.**
 
@@ -38,7 +38,7 @@ flowchart LR
 - Nombres sustitutivos.
 - Puentes lingüísticos.
 - Asociaciones extrínsecas.
-- Formación de compromiso.
+- **\concept{Formación de compromiso}.**
 
 **El olvido de Signorelli muestra que la memoria no falla de cualquier manera.** El nombre olvidado queda arrastrado por una cadena asociativa ligada a temas reprimidos. **Los nombres sustitutivos no son azarosos:** conservan restos fonéticos o lingüísticos del nombre buscado y del tema reprimido.
 
@@ -79,7 +79,7 @@ En el chiste famillionario, **dos cadenas verbales se condensan en una palabra m
 | Signorelli | Sustitución y puentes lingüísticos |
 | Chiste | Condensacion/desplazamiento |
 | Sueño | Trabajo del sueño |
-| Sintoma | Compromiso y retorno |
+| Sintoma | Formación de compromiso y retorno |
 
 ## Puente con el sueño
 
