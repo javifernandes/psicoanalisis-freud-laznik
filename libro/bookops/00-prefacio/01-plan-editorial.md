@@ -35,9 +35,9 @@ Ubica al lector y explica cómo conviene usar el libro según el tiempo disponib
 
 Reconstruye el recorrido efectivo de la materia por espacios de clase:
 
-- teóricos;
-- prácticos;
-- seminarios.
+- [Teóricos](../01-mapa-de-cursada/01-teoricos.md);
+- [Prácticos](../01-mapa-de-cursada/02-practicos.md);
+- [Seminarios](../01-mapa-de-cursada/03-seminarios.md).
 
 Su función es orientadora. Sirve para entender por qué un mismo texto vuelve a aparecer en distintos momentos y con usos distintos.
 
@@ -45,13 +45,13 @@ Su función es orientadora. Sirve para entender por qué un mismo texto vuelve a
 
 Es el núcleo conceptual del libro. Reorganiza la materia por problemas:
 
-- del trauma al conflicto psíquico;
-- defensa, sintoma y retorno;
-- temporalidad y sobredeterminación;
-- formaciones del inconsciente;
-- sueño y aparato psiquico;
-- deseo y funcionamiento del aparato;
-- primera teoría de la angustia.
+- [Del trauma al conflicto psíquico](../02-sintesis-integrada/01-del-trauma-al-conflicto-psiquico.md);
+- [Defensa, síntoma y retorno](../02-sintesis-integrada/02-defensa-sintoma-y-retorno.md);
+- [Temporalidad y sobredeterminación](../02-sintesis-integrada/03-temporalidad-y-sobredeterminacion.md);
+- [Formaciones del inconsciente](../02-sintesis-integrada/04-formaciones-del-inconciente.md);
+- [Sueño y aparato psíquico](../02-sintesis-integrada/05-sueno-y-aparato-psiquico.md);
+- [Deseo y funcionamiento del aparato](../02-sintesis-integrada/06-deseo-y-funcionamiento-del-aparato.md);
+- [Primera teoría de la angustia](../02-sintesis-integrada/07-primera-teoria-de-la-angustia.md).
 
 En esta parte el criterio ya no es "qué se vio en cada clase", sino "qué construcción teórica va haciendo Freud".
 
