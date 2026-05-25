@@ -4,6 +4,8 @@
 
 Practicos se concentra en mecanismos: defensa, sintoma, temporalidad, chiste y aparato.
 
+Ver también: [Textos de Freud y ejes principales](../04-textos-de-freud/01-textos-de-freud-y-ejes.md)
+
 ## 1. Neuropsicosis de defensa
 
 Ejes:

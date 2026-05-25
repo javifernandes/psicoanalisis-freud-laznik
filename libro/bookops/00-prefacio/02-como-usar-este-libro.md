@@ -11,9 +11,9 @@ La materia tiene tres espacios: teorico, practico y seminario. El problema es qu
 
 Leer en este orden:
 
-1. [Prioridades de estudio](../03-entrenamiento-parcial/01-prioridades.md)
-2. [Respuestas modelo](../03-entrenamiento-parcial/02-respuestas-modelo.md)
-3. [Simulacros](../03-entrenamiento-parcial/04-simulacros.md)
+1. [Prioridades de estudio](../05-entrenamiento-parcial/01-prioridades.md)
+2. [Respuestas modelo](../05-entrenamiento-parcial/02-respuestas-modelo.md)
+3. [Simulacros](../05-entrenamiento-parcial/04-simulacros.md)
 
 Despues completar con los capitulos de sintesis integrada que correspondan.
 
@@ -23,7 +23,9 @@ Leer en este orden:
 
 1. [Mapa de cursada](../01-mapa-de-cursada/01-teoricos.md)
 2. [Sintesis integrada](../02-sintesis-integrada/01-del-trauma-al-conflicto-psiquico.md)
-3. [Entrenamiento parcial](../03-entrenamiento-parcial/01-prioridades.md)
+3. [Casos](../03-apendice-casos/00-caso-anna-o.md)
+4. [Textos de Freud y ejes](../04-textos-de-freud/01-textos-de-freud-y-ejes.md)
+5. [Entrenamiento parcial](../05-entrenamiento-parcial/01-prioridades.md)
 
 ## Regla de escritura para el parcial
 

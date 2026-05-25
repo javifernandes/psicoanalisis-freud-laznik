@@ -80,6 +80,17 @@ La tensión debería alcanzar un umbral y enlazarse con una representación sexu
 | Tratamiento freudiano inicial | Opera por asociaciones | No opera igual |
 | Causa | Conflicto psíquico | Acumulación actual |
 
+## Cuadro principal
+
+| Eje | Neurosis de defensa | Neurosis actuales |
+|---|---|---|
+| Textos guía | Histeria, neurosis obsesiva, Emma, Manuscrito K | Primera teoría de la angustia, neurastenia, neurosis de angustia |
+| Núcleo explicativo | Conflicto psíquico y defensa | Tensión sexual somática actual |
+| Qué se separa o fracasa | Representación y monto de afecto; retorno de lo reprimido | Falta de ligadura psíquica de la excitación |
+| Temporalidad | Puede haber retroacción y dos tiempos | Actualidad, acumulación presente |
+| Relación con el cuerpo | Cuerpo simbólico, conversión, síntoma interpretable | Descarga somática, angustia sin mensaje |
+| Vía de abordaje | Asociación, interpretación, reconstrucción | No se resuelve igual por interpretación |
+
 ## Advertencia
 
 Si la consigna pregunta por primera teoría de la angustia, **no responder con trauma en dos tiempos ni con retorno de lo reprimido**. **La clave es tensión sexual somática no ligada psíquicamente.**

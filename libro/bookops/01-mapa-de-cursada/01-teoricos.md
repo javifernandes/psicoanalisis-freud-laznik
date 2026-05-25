@@ -4,14 +4,16 @@
 
 Los teoricos arman una historia conceptual: Freud pasa de explicar sintomas histericos a construir un aparato psiquico.
 
+Ver también: [Textos de Freud y ejes principales](../04-textos-de-freud/01-textos-de-freud-y-ejes.md)
+
 ## 1. Mecanismo psiquico de los fenomenos histericos
 
 Ejes:
 
 - Punto de apoyo en Charcot.
 - Diferencia entre trauma fisico y trauma psiquico.
-- [Anna O.](../05-apendice-casos/00-caso-anna-o.md) y vivencias teñidas de afecto.
-- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md) y el síntoma corporal “como una bofetada en la cara”.
+- [Anna O.](../03-apendice-casos/00-caso-anna-o.md) y vivencias teñidas de afecto.
+- [Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md) y el síntoma corporal “como una bofetada en la cara”.
 - Principio de constancia.
 - Afecto no abreaccionado.
 - Sintoma como cuerpo que habla.
@@ -24,7 +26,7 @@ Cuadro minimo:
 | Accidente y peligro corporal | Vivencia con afecto no tramitado |
 | Hipnosis reproduce sintomas | Hipnosis recupera recuerdos |
 
-Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md), [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md)
+Ver también: [Caso Anna O.](../03-apendice-casos/00-caso-anna-o.md), [Caso Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md)
 
 ## 2. Psicoterapia de la histeria
 

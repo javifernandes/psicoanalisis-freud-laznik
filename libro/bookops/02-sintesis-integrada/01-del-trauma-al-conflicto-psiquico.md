@@ -21,9 +21,9 @@ Charcot le ofrece a Freud un punto decisivo: **la histeria tiene legalidad clín
 ```mermaid
 flowchart LR
   A["Charcot<br/>histeria traumatica"] --> B["Gran trauma fisico<br/>accidente / peligro corporal"]
-  B --> C["La hipnosis muestra que el sintoma tiene legalidad"]
-  C --> D["Limite: no alcanza para pensar la histeria comun"]
-  D --> E["Freud desplaza el foco hacia la representacion"]
+  B --> C["La hipnosis muestra que <br/>el sintoma tiene legalidad"]
+  C --> D["Limite: no alcanza para <br/>pensar la histeria comun"]
+  D --> E["Freud desplaza el foco <br/>hacia la representacion"]
 ```
 
 ## Breuer y Freud
@@ -37,7 +37,7 @@ flowchart LR
 
 Con Anna O. aparece otra escena: **no se trata solo de un golpe**, sino de síntomas ligados a historias, palabras, recuerdos y afectos. La hipnosis permite recuperar escenas olvidadas. Cuando el recuerdo aparece y el afecto se descarga, el síntoma puede ceder. **Este es el núcleo del método catártico.**
 
-Ver también: [Caso Anna O.](../05-apendice-casos/00-caso-anna-o.md)
+Ver también: [Caso Anna O.](../03-apendice-casos/00-caso-anna-o.md)
 
 ### Checkpoint: Breuer y Freud
 
@@ -56,7 +56,7 @@ flowchart LR
 
 *La \concept{abreacción} es la descarga adecuada de ese afecto.* Puede ocurrir por una reacción motriz, por la palabra o por un procesamiento asociativo. Cuando esa descarga no ocurre, el recuerdo conserva una intensidad anormal. En ese sentido, *el síntoma histérico aparece como una solución fallida*: algo que no pudo tramitarse psíquicamente encuentra otra vía.
 
-Ver también: [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md)
+Ver también: [Caso Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md)
 
 ## Trauma psiquico
 
@@ -67,9 +67,21 @@ Formula:
 ```mermaid
 flowchart LR
   A["Vivencia con afecto"] --> B["No abreaccion"]
-  B --> C["El recuerdo conserva intensidad"]
+  B --> C["El recuerdo conserva<br/>intensidad"]
   C --> D["Sintoma"]
 ```
+
+## Cuadro comparativo
+
+| Eje | Charcot | Breuer y Freud | Freud |
+|---|---|---|---|
+| Objeto | Histeria traumática | Histeria común; Anna O. | Histeria de defensa |
+| Trauma | Accidente, gran trauma, peligro corporal | Vivencias teñidas de afecto | Conflicto psíquico, defensa, núcleo patógeno |
+| Causa del síntoma | No es el golpe mismo, sino la representación asociada | Recuerdo no abreaccionado | Representación inconciliable y resistencia |
+| Método | Hipnosis para reproducir o suprimir síntomas | Hipnosis y catarsis | Presión en la frente, trabajo contra resistencias |
+| Límite | No explica bien la histeria común | Cede síntomas, pero no la histeria como tal | Descubre resistencia, defensa y sobredeterminación |
+
+Este cuadro sirve mucho para no mezclar tres momentos distintos. **Charcot** le da a Freud la legalidad clínica de la histeria. **Breuer y Freud** muestran que el síntoma remite a recuerdos y afectos no tramitados. **Freud solo** empieza a formular con más fuerza el conflicto psíquico, la defensa y el problema de la resistencia.
 
 ## Giro freudiano
 
@@ -104,17 +116,17 @@ Esta distinción es muy importante para el parcial, porque una pregunta sobre "t
 ```mermaid
 flowchart LR
   A["Charcot"] --> B["Histeria traumatica<br/>gran trauma fisico"]
-  B --> C["Freud toma la legalidad del sintoma"]
+  B --> C["Freud toma la legalidad<br/>del sintoma"]
   C --> D["Breuer y Freud"]
-  D --> E["Anna O.<br/>recuerdo + afecto + abreaccion"]
+  D --> E["Anna O.<br/>recuerdo<br/> + afecto<br/> + abreaccion"]
   E --> F["Trauma psiquico"]
   F --> G["Afecto no tramitado<br/>que sigue actuando"]
   G --> H["Giro freudiano"]
-  H --> I["Conflicto / defensa / resistencia / retroaccion"]
+  H --> I["Conflicto / defensa <br/>/ resistencia / retroaccion"]
 ```
 
 ## Casos emblemáticos de este tramo
 
-- [Anna O.](../05-apendice-casos/00-caso-anna-o.md): historia de padecimiento, hipnosis, abreacción y método catártico.
-- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md): referencia simbólica del síntoma y cuerpo que habla.
-- [Emma](../05-apendice-casos/02-caso-emma.md): trauma en dos tiempos y eficacia póstuma del recuerdo.
+- [Anna O.](../03-apendice-casos/00-caso-anna-o.md): historia de padecimiento, hipnosis, abreacción y método catártico.
+- [Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md): referencia simbólica del síntoma y cuerpo que habla.
+- [Emma](../03-apendice-casos/02-caso-emma.md): trauma en dos tiempos y eficacia póstuma del recuerdo.

@@ -41,17 +41,17 @@ flowchart LR
 
 En la histeria, **el monto de afecto pasa al cuerpo**. Freud llama \concept{conversión} a esta transposición. **El síntoma corporal no es arbitrario:** conserva algún nexo simbólico o asociativo con la representación inconciliable. Por eso se puede leer. **El cuerpo histérico no es puro cuerpo orgánico:** es cuerpo tomado por lenguaje e historia.
 
-Ver también: [Caso Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md), [Caso Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md)
+Ver también: [Caso Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md), [Caso Elisabeth von R.](../03-apendice-casos/03-caso-elisabeth-von-r.md)
 
 ## Neurosis obsesiva
 
 En la neurosis obsesiva, si no hay conversión, **el monto de afecto se enlaza con otra representación**. Esa nueva representación no era en sí misma inconciliable, pero se vuelve obsesiva porque recibe un afecto que no le pertenecía. **Freud llama a esto \concept{falso enlace}.**
 
-Ver también: [Caso Emma](../05-apendice-casos/02-caso-emma.md)
+Ver también: [Caso Emma](../03-apendice-casos/02-caso-emma.md)
 
 ## Psicosis
 
-En la psicosis, según este primer esquema, **el yo desestima la representación insoportable junto con su monto de afecto**. No hay la misma formación sustitutiva neurótica. La cátedra no parece profundizar este destino en el primer parcial, pero conviene ubicarlo como contraste.
+En la psicosis, según este primer esquema, **el yo desestima la representación insoportable junto con su monto de afecto**. No aparece la misma formación sustitutiva neurótica. La cátedra no parece profundizar este destino en el primer parcial, pero conviene ubicarlo como contraste.
 
 ## Sintoma
 
@@ -76,9 +76,21 @@ flowchart TD
   D --> G["Desestimacion<br/>psicosis"]
 ```
 
-## Formula
+## Fórmula canónica de las neuropsicosis de defensa
 
 *\concept{Representación inconciliable} -> conflicto -> defensa -> separación representación/monto de afecto -> sustitución -> síntoma.*
+
+Desplegada en pasos:
+
+1. aparece una **\concept{representación inconciliable}** para el yo;
+2. se produce **\concept{conflicto psíquico}**;
+3. el yo pone en marcha la **\concept{defensa}**;
+4. la defensa separa **representación** y **\concept{monto de afecto}**;
+5. la representación queda segregada y forma un **\concept{grupo psíquico segundo}**;
+6. el monto de afecto busca otro destino:
+   histeria por **conversión**, neurosis obsesiva por **falso enlace**, o desestimación en la psicosis;
+7. lo expulsado retorna bajo una **formación sustitutiva**;
+8. ese retorno aparece como **\concept{síntoma}**.
 
 Diagrama:
 
@@ -127,6 +139,6 @@ flowchart TD
 
 ## Casos emblemáticos de este tramo
 
-- [Cäcilie M.](../05-apendice-casos/01-caso-cecilie-m.md): nexo simbólico entre afrenta psíquica y síntoma corporal.
-- [Emma](../05-apendice-casos/02-caso-emma.md): defensa, formación del síntoma y articulación entre escenas.
-- [Elisabeth von R.](../05-apendice-casos/03-caso-elisabeth-von-r.md): sobredeterminación, resistencia y lectura analítica del síntoma.
+- [Cäcilie M.](../03-apendice-casos/01-caso-cecilie-m.md): nexo simbólico entre afrenta psíquica y síntoma corporal.
+- [Emma](../03-apendice-casos/02-caso-emma.md): defensa, formación del síntoma y articulación entre escenas.
+- [Elisabeth von R.](../03-apendice-casos/03-caso-elisabeth-von-r.md): sobredeterminación, resistencia y lectura analítica del síntoma.
