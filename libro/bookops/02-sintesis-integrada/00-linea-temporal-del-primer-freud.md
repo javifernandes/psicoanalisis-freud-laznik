@@ -41,6 +41,7 @@ timeline
                               : eficacia póstuma
                               : cooperación de recuerdos
                               : sobredeterminación
+                              : retorno de lo reprimido
                               : casos: Emma / Elisabeth von R.
 
     section 1895-1900
@@ -110,7 +111,8 @@ timeline
                               : eficacia póstuma
                               : cooperación de recuerdos
                               : sobredeterminación
-                              : textos: Manuscrito K / Etiología de la histeria
+                              : retorno de lo reprimido
+                              : textos: Manuscrito K / Nuevas puntualizaciones... / Etiología de la histeria
                               : casos: Emma / Elisabeth von R.
 ```
 
@@ -120,7 +122,7 @@ timeline
 - **Breuer y Freud** desplazan el problema hacia el recuerdo patógeno y el afecto no abreaccionado.
 - **Las neuropsicosis de defensa** introducen conflicto psíquico, defensa y separación entre representación y monto de afecto.
 - **Psicoterapia de la histeria** complejiza el método: resistencia, núcleo patógeno y organización estratificada del material.
-- **Emma** y **Manuscrito K** complejizan la temporalidad del trauma.
+- **Emma**, **Manuscrito K** y **Nuevas puntualizaciones...** complejizan la temporalidad del trauma y el retorno de lo reprimido.
 
 ## Zoom: sueño, aparato y deseo
 
