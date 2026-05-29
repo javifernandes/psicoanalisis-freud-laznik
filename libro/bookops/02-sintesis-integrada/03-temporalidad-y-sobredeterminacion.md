@@ -63,6 +63,19 @@ flowchart LR
   F --> G["Defensa / sintoma"]
 ```
 
+## Formula canónica de Manuscrito K
+
+*Freud propone en este momento un esquema fuerte para pensar la temporalidad retroactiva del trauma:*
+
+1. **Vivencia sexual prematura traumática**
+2. **Represión**
+3. **Salud aparente**
+4. **Retorno de lo reprimido**
+
+Esta fórmula no debe leerse como una cronología simple ni como una ley universal de toda la clínica. **Su valor está en mostrar que una escena temprana puede quedar aparentemente inactiva, ser reprimida y volver más tarde bajo forma sintomática cuando otra escena la resignifica.**
+
+Emma permite ver con claridad esta lógica. La escena infantil no alcanza por sí sola para explicar el síntoma. **Hace falta un segundo tiempo que reactive el recuerdo y le confiera eficacia póstuma.** Por eso esta fórmula sirve como esquema privilegiado de *Manuscrito K*, aunque no agota la complejidad de casos más sobredeterminados como Elisabeth.
+
 ## Elisabeth von R.
 
 *Elisabeth muestra \concept{sobredeterminación}:*

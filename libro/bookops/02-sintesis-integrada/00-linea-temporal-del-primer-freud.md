@@ -62,6 +62,95 @@ timeline
                                    : casos: Signorelli / recuerdos encubridores / chistes
 ```
 
+## Zoom: trauma y síntoma
+
+Si se aísla solo la línea de trauma, el recorrido queda bastante claro:
+
+```mermaid
+timeline
+    title Del gran trauma al conflicto psíquico
+
+    section 1890-1892
+      Charcot : histeria traumática
+              : gran trauma
+              : legalidad del síntoma
+              : texto de referencia: Charcot
+
+    section 1893
+      Breuer y Freud : trauma psíquico
+                     : recuerdo patógeno
+                     : abreacción
+                     : principio de constancia
+                     : texto: Mecanismo psíquico de los fenómenos histéricos
+                     : caso: Anna O.
+
+    section 1894
+      Freud : representación inconciliable
+            : defensa
+            : monto de afecto
+            : conversión / falso enlace
+            : texto: Las neuropsicosis de defensa
+            : caso: Cäcilie M.
+
+    section 1895-1896
+      Temporalidad del trauma : dos tiempos
+                              : eficacia póstuma
+                              : cooperación de recuerdos
+                              : sobredeterminación
+                              : textos: Manuscrito K / Etiología de la histeria
+                              : casos: Emma / Elisabeth von R.
+```
+
+### Qué conviene retener de este tramo
+
+- **Charcot** da la legalidad de la histeria, pero todavía en clave de gran trauma.
+- **Breuer y Freud** desplazan el problema hacia el recuerdo patógeno y el afecto no abreaccionado.
+- **Las neuropsicosis de defensa** introducen conflicto psíquico, defensa y separación entre representación y monto de afecto.
+- **Emma** y **Manuscrito K** complejizan la temporalidad del trauma.
+
+## Zoom: sueño, aparato y deseo
+
+En sueño conviene separar dos momentos, porque la cátedra no los toma como si fueran exactamente lo mismo.
+
+```mermaid
+timeline
+    title Del arco reflejo al deseo
+
+    section Punto A
+      Aparato psíquico : polo perceptivo
+                       : polo motor
+                       : percepción y memoria como sistemas distintos
+                       : huellas mnémicas
+
+    section Punto B
+      Sueño : cierre de la motilidad
+            : regresión
+            : censura
+            : trabajo del sueño
+            : carácter alucinatorio
+            : texto guía: La interpretación de los sueños
+
+    section Punto C
+      Deseo : vivencia de satisfacción
+            : huella de necesidad / huella de satisfacción
+            : identidad perceptiva
+            : proceso primario y secundario
+            : principio de placer / displacer
+            : texto guía: Proyecto / La interpretación de los sueños
+```
+
+### Qué conviene no mezclar
+
+- Si te preguntan por el **carácter alucinatorio del sueño**, suele alcanzar con **A/B**:
+  - percepción,
+  - memoria,
+  - cierre de la motilidad,
+  - regresión hacia huellas.
+- Si te preguntan por **deseo**, **proceso primario** o **principio de placer**, ahí sí conviene meter **C**:
+  - vivencia de satisfacción,
+  - identidad perceptiva,
+  - deseo inconsciente.
+
 ## Cómo leer esta línea
 
 - **Trauma y abreacción** conviene ligarlos al momento Breuer-Freud.
