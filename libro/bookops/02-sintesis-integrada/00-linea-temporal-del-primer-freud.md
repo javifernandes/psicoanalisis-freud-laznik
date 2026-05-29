@@ -30,6 +30,12 @@ timeline
                                : conversión y falso enlace
                                : casos: Cäcilie M.
 
+    section 1895
+      Psicoterapia de la histeria : resistencia
+                                  : núcleo patógeno
+                                  : producto multidimensional
+                                  : ordenamientos del material
+
     section 1895-1896
       Temporalidad del trauma : dos tiempos
                               : eficacia póstuma
@@ -92,6 +98,13 @@ timeline
             : texto: Las neuropsicosis de defensa
             : caso: Cäcilie M.
 
+    section 1895
+      Freud : resistencia
+            : núcleo patógeno
+            : producto multidimensional
+            : ordenamientos del material
+            : texto: Psicoterapia de la histeria
+
     section 1895-1896
       Temporalidad del trauma : dos tiempos
                               : eficacia póstuma
@@ -106,6 +119,7 @@ timeline
 - **Charcot** da la legalidad de la histeria, pero todavía en clave de gran trauma.
 - **Breuer y Freud** desplazan el problema hacia el recuerdo patógeno y el afecto no abreaccionado.
 - **Las neuropsicosis de defensa** introducen conflicto psíquico, defensa y separación entre representación y monto de afecto.
+- **Psicoterapia de la histeria** complejiza el método: resistencia, núcleo patógeno y organización estratificada del material.
 - **Emma** y **Manuscrito K** complejizan la temporalidad del trauma.
 
 ## Zoom: sueño, aparato y deseo
@@ -155,6 +169,7 @@ timeline
 
 - **Trauma y abreacción** conviene ligarlos al momento Breuer-Freud.
 - **Defensa, representación inconciliable y síntoma** conviene desarrollarlos con *Las neuropsicosis de defensa*.
+- **Resistencia, núcleo patógeno y producto multidimensional** conviene ligarlos a *Psicoterapia de la histeria*.
 - **Dos tiempos** y **eficacia póstuma** conviene explicarlos con *Emma*.
 - **Sobredeterminación** conviene bajarla mejor con *Elisabeth von R.*
 - **Sueño, aparato y deseo** forman un bloque posterior donde Freud complejiza la tópica, la regresión y la lógica del proceso primario.
