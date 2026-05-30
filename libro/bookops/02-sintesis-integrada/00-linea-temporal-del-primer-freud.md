@@ -185,3 +185,15 @@ timeline
 - Finalmente, Freud reorganiza el problema alrededor de **sueño, deseo, aparato psíquico y angustia**.
 
 Esta es la lógica de los capítulos que siguen.
+
+## Textos y temas asociados
+
+| Texto | Temas asociados |
+|---|---|
+| *Sobre el mecanismo psíquico de los fenómenos histéricos* | trauma psíquico, recuerdo patógeno, abreacción, principio de constancia |
+| *Las neuropsicosis de defensa* | representación inconciliable, defensa, escisión representación / monto de afecto, conversión, falso enlace |
+| *Sobre la psicoterapia de la histeria* | resistencia, núcleo patógeno, producto multidimensional, ordenamientos del material |
+| *Manuscrito K* / *Nuevas puntualizaciones...* / *Etiología de la histeria* | defensa nociva, fórmula canónica, dos tiempos, eficacia póstuma, retorno de lo reprimido |
+| *Manuscrito E* | neurosis actuales, primera teoría de la angustia, acumulación de excitación, afecto sin representación |
+| *La interpretación de los sueños* / *Proyecto* | aparato psíquico, regresión, trabajo del sueño, vivencia de satisfacción, proceso primario y secundario, principio de placer |
+| *Carta 52* | retranscripción, estratificación sucesiva, signos de percepción, articulación entre memoria y retroacción |
